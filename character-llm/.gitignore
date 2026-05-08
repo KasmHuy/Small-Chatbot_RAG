@@ -1,0 +1,31 @@
+# Secrets
+.env
+*.key
+
+# Model weights — quá nặng (GB)
+models/
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+
+# Data thô có thể nhạy cảm
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+myenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+wandb/
+runs/
