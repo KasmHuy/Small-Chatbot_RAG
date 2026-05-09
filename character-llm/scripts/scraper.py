@@ -9,6 +9,75 @@ import requests
 def slugify(text: str) -> str:
     return re.sub(r"[^a-z0-9_]", "_", text.lower().strip()).strip("_")
 
+def parse_entries(text: str) -> list[dict]:
+
+    FAKE_DIALOGUE_HEADERS = {
+        "trivia",
+        "appearance",
+        "personality",
+        "official introduction",
+        "character story"
+    }
+
+    entries = []
+
+    lines = text.splitlines()
+
+    for line in lines:
+
+        line = line.strip()
+
+        if not line:
+            continue
+        # remove wiki formatting
+        line = re.sub(r"^\*+\s*", "", line)
+        # remove leading :
+        line = re.sub(r"^:\s*", "", line)
+        # remove weird ;(
+        line = re.sub(r"^;+","", line)
+        line = line.strip()
+        if not line:
+            continue
+        # action / stage direction
+        if line.startswith("(") and line.endswith(")"):
+            entries.append({
+                "type": "action",
+                "text": line[1:-1].strip()
+            })
+            continue
+
+        # dialogue
+        dialogue_match = re.match(
+            r"^([A-Za-z0-9 _'\-]+):\s*(.+)$",
+            line
+        )
+
+        if dialogue_match:
+
+            speaker = dialogue_match.group(1).strip()
+            dialogue = dialogue_match.group(2).strip()
+
+            if speaker.lower() not in FAKE_DIALOGUE_HEADERS:
+
+                entries.append({
+                    "type": "dialogue",
+                    "speaker": speaker,
+                    "text": dialogue
+                })
+
+                continue
+
+        # skip tiny garbage
+        if len(line.split()) < 2:
+            continue
+
+        # normal text
+        entries.append({
+            "type": "text",
+            "text": line
+        })
+
+    return entries
 
 def scrape_character_wiki(url: str, character_name: str) -> dict:
     """
@@ -44,7 +113,7 @@ def scrape_character_wiki(url: str, character_name: str) -> dict:
     raw_wikitext: str = data["parse"]["wikitext"]["*"]
     api_sections: list = data["parse"]["sections"]  # [{index, line, ...}, ...]
 
-    sections = _parse_wikitext_sections(raw_wikitext, api_sections)
+    sections = _parse_wikitext_sections(raw_wikitext)
 
     page_path = url.rstrip("/").split("/wiki/")[-1]
     doc_id = f"wiki_{slugify(page_path)}"
@@ -59,46 +128,65 @@ def scrape_character_wiki(url: str, character_name: str) -> dict:
 
 def _clean_wikitext(text: str) -> str:
     """Bỏ wiki markup cơ bản, giữ lại plain text."""
-    text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", text)  # [[link|label]] → label
+    text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", text)    # [[link|label]] → label
     text = re.sub(r"\{\{[^}]+\}\}", "", text)                        # {{template}} → bỏ
-    text = re.sub(r"'{2,}", "", text)                                 # bold/italic
+    text = re.sub(r"'{2,}", "", text)                                # bold/italic
+    text = re.sub(r"<ref[^>]*>.*?</ref>", "", text, flags=re.S)
+    text = re.sub(r"<[^>]+>", "", text)                              # HTML tags
     text = re.sub(r"<ref[^>]*>.*?</ref>", "", text, flags=re.S)      # <ref>
-    text = re.sub(r"<[^>]+>", "", text)                               # HTML tags
-    text = re.sub(r"={2,}[^=]+=+", "", text)                         # section headers
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
 
 
-def _parse_wikitext_sections(wikitext: str, api_sections: list) -> list[dict]:
-    """
-    Dùng section list từ API để split wikitext thành từng phần,
-    trả về [{"section": "...", "content": "..."}, ...]
-    """
-    # Tạo list anchor heading để split
-    heading_pattern = re.compile(r"^(={2,6})\s*(.+?)\s*\1\s*$", re.MULTILINE)
-    matches = list(heading_pattern.finditer(wikitext))
+def _parse_wikitext_sections(wikitext: str) -> list[dict]:
 
+    heading_pattern = re.compile(
+        r"^(={2,6})\s*(.+?)\s*\1\s*$",
+        re.MULTILINE
+    )
+    matches = list(
+        heading_pattern.finditer(wikitext)
+    )
     sections = []
-
-    # Phần trước heading đầu tiên = Introduction
-    intro_end = matches[0].start() if matches else len(wikitext)
-    intro_text = _clean_wikitext(wikitext[:intro_end])
+    # Introduction
+    intro_end = (
+        matches[0].start()
+        if matches
+        else len(wikitext)
+    )
+    intro_text = _clean_wikitext(
+        wikitext[:intro_end]
+    )
     if intro_text:
-        sections.append({"section": "Introduction", "content": intro_text})
-
+        sections.append({
+            "section": "Introduction",
+            "entries": parse_entries(intro_text)
+        })
+    # Other sections
     for i, m in enumerate(matches):
         heading = m.group(2).strip()
         content_start = m.end()
-        content_end   = matches[i + 1].start() if i + 1 < len(matches) else len(wikitext)
-        content = _clean_wikitext(wikitext[content_start:content_end])
-        if content:
-            sections.append({"section": heading, "content": content})
+        content_end = (
+            matches[i + 1].start()
+            if i + 1 < len(matches)
+            else len(wikitext)
+        )
 
+        content = _clean_wikitext(
+            wikitext[content_start:content_end]
+        )
+        if not content:
+            continue
+
+        sections.append({
+            "section": heading,
+            "entries": parse_entries(content)
+        })
     return sections
 
 def scrape_voiceover_wiki(url: str, character_name: str) -> dict:
     """
-    Dành riêng cho trang Voice-Overs — content nằm trong HTML table.
+    Dành riêng cho trang Voice-Overs — content nằm trong HTML table.x
     Dùng action=parse&prop=text để lấy rendered HTML thay vì wikitext.
     """
     match = re.match(r"(https?://[^/]+)/wiki/(.+)", url.rstrip("/"))
@@ -122,7 +210,7 @@ def scrape_voiceover_wiki(url: str, character_name: str) -> dict:
     html = resp.json()["parse"]["text"]["*"]
     soup = BeautifulSoup(html, "html.parser")
 
-    sections = _parse_voiceover_tables(soup)
+    sections = _parse_voiceover_tables(soup,character_name)
 
     page_path = url.rstrip("/").split("/wiki/")[-1]
     doc_id = f"wiki_{slugify(page_path)}"
@@ -135,7 +223,7 @@ def scrape_voiceover_wiki(url: str, character_name: str) -> dict:
     }
 
 
-def _parse_voiceover_tables(soup) -> list[dict]:
+def _parse_voiceover_tables(soup, character_name:str) -> list[dict]:
     sections = []
     SKIP_HEADERS = {"title and requirements", "title", "details"}
     SKIP_TITLES = {"opening treasure chest", "character idles"}
@@ -182,7 +270,16 @@ def _parse_voiceover_tables(soup) -> list[dict]:
 
             # Drop sections quá ngắn (combat lines)
             if title and text and len(text.split()) >= 8:
-                sections.append({"section": title, "content": text})
+                sections.append({
+                    "section": title,
+                    "entries": [
+                        {
+                            "type": "dialogue",
+                            "speaker": character_name,
+                            "text": text
+                        }
+                    ]
+                })
 
     return sections
 

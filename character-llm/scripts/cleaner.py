@@ -46,69 +46,201 @@ def _is_blocked_section(section_name: str) -> bool:
 # Text cleaning
 # ---------------------------------------------------------------------------
 
-def clean_content(text: str) -> str:
-    text = text.replace("&mdash;", "—")
-    text = text.replace("&ndash;", "–")
-    text = text.replace("&nbsp;", " ")
-    text = text.replace("&amp;", "&")
-    text = text.replace("&lt;", "<")
-    text = text.replace("&gt;", ">")
-
+def clean_content(text: str):
+    # HTML entities
+    text = (
+        text.replace("&mdash;", "—")
+            .replace("&ndash;", "–")
+            .replace("&nbsp;", " ")
+            .replace("&amp;", "&")
+            .replace("&lt;", "<")
+            .replace("&gt;", ">")
+    )
     lines = text.splitlines()
-    cleaned_lines = []
+    # Dialogue: "Name: Text" hoặc "Name (Emotion): Text"
+    dialogue_pattern = re.compile(
+        r"^([\w\s]+?)(?:\s*\((.*?)\))?\s*:\s*(.*)$"
+    )
+    # Action/context: "(Action)" hoặc ";(Action)"
+    action_pattern = re.compile(
+        r"^\s*[;:]?\s*\((.*)\)\s*$"
+    )
+
+    entries = []
+    seen = set()
+
     for line in lines:
         stripped = line.strip()
+
+        # ===== CLEAN =====
+
+        # remove template dump
         if re.match(r"^\|[\w_\s]+=", stripped):
             continue
+
         if stripped in ("}}", "{{", "|", ""):
             continue
-        stripped = re.sub(r"^\*{1,3}\s*", "", stripped)
-        stripped = re.sub(r"\[https?://\S+\s+([^\]]+)\]", r"\1", stripped)
-        stripped = re.sub(r"https?://\S+", "", stripped)
-        stripped = re.sub(r"'{2,}", "", stripped)
-        stripped = re.sub(r"[\u3000-\u9fff\ua000-\udfff\uf900-\uffef]+", "", stripped)
-        stripped = re.sub(r"\(\s*\)", "", stripped)
-        stripped = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", stripped)
-        stripped = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", stripped)
-        stripped = stripped.strip()
-        # Chỉ giữ dòng có từ tiếng Anh và đủ 2 từ trở lên
-        if re.search(r"[a-zA-Z]", stripped) and len(stripped.split()) >= 2:
-            cleaned_lines.append(stripped)   # ← chỉ append string
 
-    text = "\n".join(cleaned_lines)
-    text = re.sub(r"\s+\.", ".", text)
-    text = re.sub(r"'\s*$", "", text)        # trailing quote
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
+        # remove wiki formatting
+        stripped = re.sub(r"^\*{1,3}\s*", "", stripped)
+
+        # remove leading :
+        stripped = re.sub(r"^:\s*", "", stripped)
+
+        # remove commands
+        stripped = re.sub(r"^[#;]+\s*", "", stripped)
+
+        # normalize colons
+        stripped = re.sub(r"[:]{2,}", ":", stripped)
+
+        # remove links
+        stripped = re.sub(
+            r"\[https?://\S+\s+([^\]]+)\]",
+            r"\1",
+            stripped
+        )
+        stripped = re.sub(r"https?://\S+", "", stripped)
+
+        # remove bold/italic wiki markup
+        stripped = re.sub(r"'{2,}", "", stripped)
+
+        # normalize spacing
+        stripped = re.sub(r"\s{2,}", " ", stripped)
+        stripped = stripped.strip()
+
+        # filter tiny junk
+        if len(stripped.split()) < 5:
+            continue
+
+        # must contain english
+        if not re.search(r"[a-zA-Z]", stripped):
+            continue
+
+        # deduplicate
+        if stripped in seen:
+            continue
+
+        seen.add(stripped)
+
+        # ===== PARSE =====
+        # 1. Dialogue
+        diag_match = dialogue_pattern.match(stripped)
+        if diag_match:
+            speaker, emotion, content = diag_match.groups()
+
+            entries.append({
+                "type": "dialogue",
+                "speaker": speaker.strip(),
+                "emotion_hint": emotion.strip() if emotion else None,
+                "text": content.strip()
+            })
+            continue
+
+        # 2. Action / Context
+        act_match = action_pattern.match(stripped)
+        if act_match:
+            entries.append({
+                "type": "action",
+                "text": act_match.group(1).strip()
+            })
+            continue
+
+        # 3. Gameplay objectives -> skip
+        if stripped.startswith((
+            "#",
+            "Goal:",
+            "Objective:"
+        )):
+            continue
+
+        # 4. Normal text/context
+        entries.append({
+            "type": "text",
+            "text": stripped
+        })
+
+    return entries
 
 
 # ---------------------------------------------------------------------------
 # Document cleaning
 # ---------------------------------------------------------------------------
 
+def clean_entry_text(text: str) -> str:
+    """
+    Clean text của từng entry.
+    """
+
+    if not text:
+        return ""
+
+    text = (
+        text.replace("&mdash;", "—")
+            .replace("&ndash;", "–")
+            .replace("&nbsp;", " ")
+            .replace("&amp;", "&")
+            .replace("&lt;", "<")
+            .replace("&gt;", ">")
+    )
+
+    text = re.sub(r"\[https?://\S+\s+([^\]]+)\]", r"\1", text)
+    text = re.sub(r"https?://\S+", "", text)
+
+    text = re.sub(r"'{2,}", "", text)
+
+    text = re.sub(r"\s{2,}", " ", text)
+
+    return text.strip()
+
+
 def clean_document(doc: dict) -> dict:
     cleaned_sections = []
-
     for section in doc.get("sections", []):
-        name    = section.get("section", "")
-        content = section.get("content", "")
+        section_name = section.get("section", "")
+        if _is_blocked_section(section_name):
+            continue
+        entries = section.get("entries", [])
+        cleaned_entries = []
+        for entry in entries:
 
-        if _is_blocked_section(name):
+            cleaned_text = clean_entry_text(
+                entry.get("text", "")
+            )
+            entry_type = entry.get("type", "text")
+
+            # validate dialogue
+            if entry_type == "dialogue":
+                if not entry.get("speaker"):
+                    continue
+            # min words theo type
+            MIN_WORDS = {
+                "dialogue": 1,
+                "action": 2,
+                "text": 5
+            }
+
+            if len(cleaned_text.split()) < MIN_WORDS.get(entry_type, 3):
+                continue
+
+            cleaned_entry = {
+                **entry,
+                "text": cleaned_text
+            }
+
+            cleaned_entries.append(cleaned_entry)
+
+        if not cleaned_entries:
             continue
 
-        content = clean_content(content)
+        cleaned_sections.append({
+            "section": section_name,
+            "entries": cleaned_entries
+        })
 
-        if not content:
-            continue
-
-        cleaned_sections.append({"section": name, "content": content})
-
-    return {**doc, "sections": cleaned_sections}
-
-
-def clean_documents(documents: list[dict]) -> list[dict]:
-    return [clean_document(doc) for doc in documents]
-
+    return {
+        **doc,
+        "sections": cleaned_sections
+    }
 
 # ---------------------------------------------------------------------------
 # I/O
@@ -123,7 +255,8 @@ def save_documents(documents: list[dict], path: str) -> None:
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(documents, ensure_ascii=False, indent=2), encoding="utf-8")
 
-
+def clean_documents(documents: list[dict]) -> list[dict]:
+    return [clean_document(doc) for doc in documents]
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
@@ -138,6 +271,7 @@ if __name__ == "__main__":
 
     documents = load_documents(args.input)
     cleaned   = clean_documents(documents)
+    
     save_documents(cleaned, args.output)
 
     for original, result in zip(documents, cleaned):

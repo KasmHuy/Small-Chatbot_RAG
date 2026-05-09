@@ -6,7 +6,13 @@
     "character": "Kamisato Ayaka",
     "section": "Personality",
     "chunk_index": 0,
-    "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist in all kinds of matters; being a member of the Yashiro Commission, she feels that she must meet the people's needs. She is a perfectionist with an earnest personality. Her dedication often moves people, and those close to her gave her the honorary title of Shirasagi Himegimi. People in the neighborhood always talk about her with sincere admiration. Thanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals spin in the winter air, such is Ayaka's spirit. While the people of Inazuma love her, it is also well known that she has very few friends due to her upbringing — Thoma and Yoimiya are her only known friends until she met the Traveler. She is also busy to the point that she doesn't have much free time, to begin with, so she has trouble mingling with others. When not burdened with her duties, she shows a tender, cute"
+    "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist in all kinds of matters; being a member of the Yashiro Commission, she feels that she must meet the people's needs. She is a perfectionist with an earnest personality. Her dedication often moves people, and those close to her gave her the honorary title of Shirasagi Himegimi . People in the neighborhood always talk about her with sincere admiration.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist in all kinds of matters; being a member of the Yashiro Commission, she feels that she must meet the people's needs. She is a perfectionist with an earnest personality. Her dedication often moves people, and those close to her gave her the honorary title of Shirasagi Himegimi . People in the neighborhood always talk about her with sincere admiration."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_profile__personality__1",
@@ -15,7 +21,40 @@
     "character": "Kamisato Ayaka",
     "section": "Personality",
     "chunk_index": 1,
-    "text": "until she met the Traveler. She is also busy to the point that she doesn't have much free time, to begin with, so she has trouble mingling with others. When not burdened with her duties, she shows a tender, cute side to her. But if you want to capture a heart hanging high in the sky, you must have the ability to climb up the clouds. In other words, Ayaka is eager to associate with people capable of achieving great feats — in her eyes, friendships are dictated by fate, the same way she was destined to wield her frost-covered sword."
+    "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist in all kinds of matters; being a member of the Yashiro Commission, she feels that she must meet the people's needs. She is a perfectionist with an earnest personality. Her dedication often moves people, and those close to her gave her the honorary title of Shirasagi Himegimi . People in the neighborhood always talk about her with sincere admiration.\nThanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals spin in the winter air, such is Ayaka's spirit. While the people of Inazuma love her, it is also well known that she has very few friends due to her upbringing — Thoma and Yoimiya are her only known friends until she met the Traveler. She is also busy to the point that she doesn't have much free time, to begin with, so she has trouble mingling with others. When not burdened with her duties, she shows a tender, cute side to her.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist in all kinds of matters; being a member of the Yashiro Commission, she feels that she must meet the people's needs. She is a perfectionist with an earnest personality. Her dedication often moves people, and those close to her gave her the honorary title of Shirasagi Himegimi . People in the neighborhood always talk about her with sincere admiration."
+      },
+      {
+        "type": "text",
+        "text": "Thanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals spin in the winter air, such is Ayaka's spirit. While the people of Inazuma love her, it is also well known that she has very few friends due to her upbringing — Thoma and Yoimiya are her only known friends until she met the Traveler. She is also busy to the point that she doesn't have much free time, to begin with, so she has trouble mingling with others. When not burdened with her duties, she shows a tender, cute side to her."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_kamisato_ayaka_profile__personality__2",
+    "doc_id": "wiki_kamisato_ayaka_profile",
+    "source": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayaka/Profile",
+    "character": "Kamisato Ayaka",
+    "section": "Personality",
+    "chunk_index": 2,
+    "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist in all kinds of matters; being a member of the Yashiro Commission, she feels that she must meet the people's needs. She is a perfectionist with an earnest personality. Her dedication often moves people, and those close to her gave her the honorary title of Shirasagi Himegimi . People in the neighborhood always talk about her with sincere admiration.\nThanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals spin in the winter air, such is Ayaka's spirit. While the people of Inazuma love her, it is also well known that she has very few friends due to her upbringing — Thoma and Yoimiya are her only known friends until she met the Traveler. She is also busy to the point that she doesn't have much free time, to begin with, so she has trouble mingling with others. When not burdened with her duties, she shows a tender, cute side to her.\nBut if you want to capture a heart hanging high in the sky, you must have the ability to climb up the clouds. In other words, Ayaka is eager to associate with people capable of achieving great feats — in her eyes, friendships are dictated by fate, the same way she was destined to wield her frost-covered sword.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist in all kinds of matters; being a member of the Yashiro Commission, she feels that she must meet the people's needs. She is a perfectionist with an earnest personality. Her dedication often moves people, and those close to her gave her the honorary title of Shirasagi Himegimi . People in the neighborhood always talk about her with sincere admiration."
+      },
+      {
+        "type": "text",
+        "text": "Thanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals spin in the winter air, such is Ayaka's spirit. While the people of Inazuma love her, it is also well known that she has very few friends due to her upbringing — Thoma and Yoimiya are her only known friends until she met the Traveler. She is also busy to the point that she doesn't have much free time, to begin with, so she has trouble mingling with others. When not burdened with her duties, she shows a tender, cute side to her."
+      },
+      {
+        "type": "text",
+        "text": "But if you want to capture a heart hanging high in the sky, you must have the ability to climb up the clouds. In other words, Ayaka is eager to associate with people capable of achieving great feats — in her eyes, friendships are dictated by fate, the same way she was destined to wield her frost-covered sword."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_profile__appearance__0",
@@ -24,7 +63,13 @@
     "character": "Kamisato Ayaka",
     "section": "Appearance",
     "chunk_index": 0,
-    "text": "Ayaka uses the medium female model. She has pale skin, light silver-blue eyes with sky blue pupils, and very light waist-length pale blue hair styled in a hime cut in front. She also has a small mole under her left eye."
+    "text": "Ayaka uses the medium female model. She has pale skin, light silver-blue eyes with sky blue pupils, and very light waist-length pale blue hair styled in a hime cut in front. She also has a small mole under her left eye.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Ayaka uses the medium female model. She has pale skin, light silver-blue eyes with sky blue pupils, and very light waist-length pale blue hair styled in a hime cut in front. She also has a small mole under her left eye."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_profile__official_introduction__0",
@@ -33,7 +78,25 @@
     "character": "Kamisato Ayaka",
     "section": "Official Introduction",
     "chunk_index": 0,
-    "text": "Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Poised and graceful, noble and virtuous. Working in tandem with her elder brother and the current head of the clan, Kamisato Ayato, the siblings divided among themselves different responsibilities arising from their noble lineage. Ayato is in charge of government affairs while Ayaka watches over the clan's internal and external affairs. Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist them in all kinds of matters. She is a perfectionist with an earnest personality. People are often moved by her dedication, and those close to her gave her the honorary title of Shirasagi Himegimi. People in the neighborhood always talk about her with sincere admiration. Thanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals are spinning in the winter air, such is Ayaka's spirit. She not only possesses great outward beauty and elegant demeanor, but also, which isn't known to many, has a tender and cute side."
+    "text": "Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Poised and graceful, noble and virtuous.\nWorking in tandem with her elder brother and the current head of the clan, Kamisato Ayato, the siblings divided among themselves different responsibilities arising from their noble lineage. Ayato is in charge of government affairs while Ayaka watches over the clan's internal and external affairs.\nAyaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist them in all kinds of matters. She is a perfectionist with an earnest personality. People are often moved by her dedication, and those close to her gave her the honorary title of Shirasagi Himegimi. People in the neighborhood always talk about her with sincere admiration.\nThanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals are spinning in the winter air, such is Ayaka's spirit. She not only possesses great outward beauty and elegant demeanor, but also, which isn't known to many, has a tender and cute side.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Daughter of the Yashiro Commission's Kamisato Clan from Inazuma. Poised and graceful, noble and virtuous."
+      },
+      {
+        "type": "text",
+        "text": "Working in tandem with her elder brother and the current head of the clan, Kamisato Ayato, the siblings divided among themselves different responsibilities arising from their noble lineage. Ayato is in charge of government affairs while Ayaka watches over the clan's internal and external affairs."
+      },
+      {
+        "type": "text",
+        "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist them in all kinds of matters. She is a perfectionist with an earnest personality. People are often moved by her dedication, and those close to her gave her the honorary title of Shirasagi Himegimi. People in the neighborhood always talk about her with sincere admiration."
+      },
+      {
+        "type": "text",
+        "text": "Thanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals are spinning in the winter air, such is Ayaka's spirit. She not only possesses great outward beauty and elegant demeanor, but also, which isn't known to many, has a tender and cute side."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_profile__official_introduction__1",
@@ -42,7 +105,21 @@
     "character": "Kamisato Ayaka",
     "section": "Official Introduction",
     "chunk_index": 1,
-    "text": "splendid colors reflected as the ice crystals are spinning in the winter air, such is Ayaka's spirit. She not only possesses great outward beauty and elegant demeanor, but also, which isn't known to many, has a tender and cute side. But if you want to capture a heart hanging high in the sky, you must have the ability to climb up the clouds. In other words, Ayaka is eager to associate with people capable of achieving great feats — in her eyes, friendships are dictated by fate, the same way she was destined to wield her frost-covered sword."
+    "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist them in all kinds of matters. She is a perfectionist with an earnest personality. People are often moved by her dedication, and those close to her gave her the honorary title of Shirasagi Himegimi. People in the neighborhood always talk about her with sincere admiration.\nThanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals are spinning in the winter air, such is Ayaka's spirit. She not only possesses great outward beauty and elegant demeanor, but also, which isn't known to many, has a tender and cute side.\nBut if you want to capture a heart hanging high in the sky, you must have the ability to climb up the clouds. In other words, Ayaka is eager to associate with people capable of achieving great feats — in her eyes, friendships are dictated by fate, the same way she was destined to wield her frost-covered sword.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Ayaka is a kind-hearted girl with a pleasant temperament who treats others with politeness and courtesy. She holds the people of Inazuma dear to her heart and often goes out of her way to personally assist them in all kinds of matters. She is a perfectionist with an earnest personality. People are often moved by her dedication, and those close to her gave her the honorary title of Shirasagi Himegimi. People in the neighborhood always talk about her with sincere admiration."
+      },
+      {
+        "type": "text",
+        "text": "Thanks to the influence of Ayaka's excellent upbringing, her heart is as pure as crystallized ice. Just like the splendid colors reflected as the ice crystals are spinning in the winter air, such is Ayaka's spirit. She not only possesses great outward beauty and elegant demeanor, but also, which isn't known to many, has a tender and cute side."
+      },
+      {
+        "type": "text",
+        "text": "But if you want to capture a heart hanging high in the sky, you must have the ability to climb up the clouds. In other words, Ayaka is eager to associate with people capable of achieving great feats — in her eyes, friendships are dictated by fate, the same way she was destined to wield her frost-covered sword."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_profile__trivia__0",
@@ -51,7 +128,37 @@
     "character": "Kamisato Ayaka",
     "section": "Trivia",
     "chunk_index": 0,
-    "text": "She was playable during Closed Beta Test 1 and Closed Beta Test 2 in 2019, but was not released in Genshin Impact until Version 2.0 was released in July 2021. She was previously on the official website in the Mondstadt section, but was promptly removed. Her old description was: The princess of the Kamisato Clan. She occasionally practices swordsmanship so that she can pass time by slicing every falling snowflake floating around her on a snowy day. Ayaka wields the unascended version of Amenoma Kageuchi in her Character Demo, her Collected Miscellany, the Tsubaki in Thawing Snow trailer, and some artwork. Ayaka is the first character with a unique way of carrying her weapon when it's behind her, usually characters carries their weapon vertically, while Ayaka carries it diagonally. This is likely because the tachi, the type of sword Ayaka wields, is carried diagonally rather than vertically. Ayaka shares her birthday with Genshin Impacts release date, September 28. Ayaka shares the same Chinese voice actress, Xiao N, with Xiangling. In The Teyvat Travel Guide, Alice writes that Ayaka declined my idol group invitation for the sixth time running"
+    "text": "She was playable during Closed Beta Test 1 and Closed Beta Test 2 in 2019, but was not released in Genshin Impact until Version 2.0 was released in July 2021.\nShe was previously on the official website in the Mondstadt section, but was promptly removed. Her old description was: The princess of the Kamisato Clan. She occasionally practices swordsmanship so that she can pass time by slicing every falling snowflake floating around her on a snowy day.\nAyaka wields the unascended version of Amenoma Kageuchi in her Character Demo, her Collected Miscellany, the Tsubaki in Thawing Snow trailer, and some artwork.\nAyaka is the first character with a unique way of carrying her weapon when it's behind her, usually characters carries their weapon vertically, while Ayaka carries it diagonally. This is likely because the tachi, the type of sword Ayaka wields, is carried diagonally rather than vertically.\nAyaka shares her birthday with Genshin Impacts release date, September 28.\nAyaka shares the same Chinese voice actress, Xiao N, with Xiangling.\nIn The Teyvat Travel Guide, Alice writes that Ayaka declined my idol group invitation for the sixth time running'",
+    "entries": [
+      {
+        "type": "text",
+        "text": "She was playable during Closed Beta Test 1 and Closed Beta Test 2 in 2019, but was not released in Genshin Impact until Version 2.0 was released in July 2021."
+      },
+      {
+        "type": "text",
+        "text": "She was previously on the official website in the Mondstadt section, but was promptly removed. Her old description was: The princess of the Kamisato Clan. She occasionally practices swordsmanship so that she can pass time by slicing every falling snowflake floating around her on a snowy day."
+      },
+      {
+        "type": "text",
+        "text": "Ayaka wields the unascended version of Amenoma Kageuchi in her Character Demo, her Collected Miscellany, the Tsubaki in Thawing Snow trailer, and some artwork."
+      },
+      {
+        "type": "text",
+        "text": "Ayaka is the first character with a unique way of carrying her weapon when it's behind her, usually characters carries their weapon vertically, while Ayaka carries it diagonally. This is likely because the tachi, the type of sword Ayaka wields, is carried diagonally rather than vertically."
+      },
+      {
+        "type": "text",
+        "text": "Ayaka shares her birthday with Genshin Impacts release date, September 28."
+      },
+      {
+        "type": "text",
+        "text": "Ayaka shares the same Chinese voice actress, Xiao N, with Xiangling."
+      },
+      {
+        "type": "text",
+        "text": "In The Teyvat Travel Guide, Alice writes that Ayaka declined my idol group invitation for the sixth time running'"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_profile__aliases_and_titles__0",
@@ -60,7 +167,25 @@
     "character": "Kamisato Ayaka",
     "section": "Aliases and Titles",
     "chunk_index": 0,
-    "text": "Ayaka is known by these aliases or titles: Shirasagi Himegimi Master of Inazuma Kamisato Art Tachi Jutsu Archon's Emissary (during Warrior's Spirit) \"Dame of Fontaine\" Secchu Tou (in Zero Hour Invokation)"
+    "text": "Ayaka is known by these aliases or titles:\nMaster of Inazuma Kamisato Art Tachi Jutsu\nArchon's Emissary (during Warrior's Spirit)\nSecchu Tou (in Zero Hour Invokation)",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Ayaka is known by these aliases or titles:"
+      },
+      {
+        "type": "text",
+        "text": "Master of Inazuma Kamisato Art Tachi Jutsu"
+      },
+      {
+        "type": "text",
+        "text": "Archon's Emissary (during Warrior's Spirit)"
+      },
+      {
+        "type": "text",
+        "text": "Secchu Tou (in Zero Hour Invokation)"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__hello__0",
@@ -69,7 +194,14 @@
     "character": "Kamisato Ayaka",
     "section": "Hello",
     "chunk_index": 0,
-    "text": "Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present! Delighted to make your acquaintance."
+    "text": "Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present! Delighted to make your acquaintance.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present! Delighted to make your acquaintance."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__chat:_stability__0",
@@ -78,7 +210,14 @@
     "character": "Kamisato Ayaka",
     "section": "Chat: Stability",
     "chunk_index": 0,
-    "text": "I only wish life could be as leisurely as this a little more often... How greedy of me."
+    "text": "I only wish life could be as leisurely as this a little more often... How greedy of me.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "I only wish life could be as leisurely as this a little more often... How greedy of me."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__chat:_sword__0",
@@ -87,7 +226,14 @@
     "character": "Kamisato Ayaka",
     "section": "Chat: Sword",
     "chunk_index": 0,
-    "text": "A blade is like a tea-leaf. Only those who sample it many times can appreciate its true qualities."
+    "text": "A blade is like a tea-leaf. Only those who sample it many times can appreciate its true qualities.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "A blade is like a tea-leaf. Only those who sample it many times can appreciate its true qualities."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__chat:_zoning_out__0",
@@ -96,7 +242,14 @@
     "character": "Kamisato Ayaka",
     "section": "Chat: Zoning Out",
     "chunk_index": 0,
-    "text": "So this is a day in the life of the Traveler... Hehe, I'm learning more about you all the time."
+    "text": "So this is a day in the life of the Traveler ... Hehe, I'm learning more about you all the time.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "So this is a day in the life of the Traveler ... Hehe, I'm learning more about you all the time."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__chat:_famous_sword__0",
@@ -105,7 +258,14 @@
     "character": "Kamisato Ayaka",
     "section": "Chat: Famous Sword",
     "chunk_index": 0,
-    "text": "A blade embraces its duty as a jeweler cherishes their gems."
+    "text": "A blade embraces its duty as a jeweler cherishes their gems.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "A blade embraces its duty as a jeweler cherishes their gems."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__when_it_rains__0",
@@ -114,7 +274,14 @@
     "character": "Kamisato Ayaka",
     "section": "When It Rains",
     "chunk_index": 0,
-    "text": "Come with me, let us find shelter from the rain."
+    "text": "Come with me, let us find shelter from the rain.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Come with me, let us find shelter from the rain."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__when_thunder_strikes__0",
@@ -123,7 +290,14 @@
     "character": "Kamisato Ayaka",
     "section": "When Thunder Strikes",
     "chunk_index": 0,
-    "text": "Her Excellency... What is she trying to communicate?"
+    "text": "Her Excellency... What is she trying to communicate?",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Her Excellency... What is she trying to communicate?"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__when_it_snows__0",
@@ -132,7 +306,14 @@
     "character": "Kamisato Ayaka",
     "section": "When It Snows",
     "chunk_index": 0,
-    "text": "\"Snow that once adorned the world in silver, thaws to reveal the gleam of the fruit upon frost-laden branches.\" *sigh* How picturesque! Only some tea would make this setting more complete."
+    "text": "\"Snow that once adorned the world in silver, thaws to reveal the gleam of the fruit upon frost-laden branches.\" *sigh* How picturesque! Only some tea would make this setting more complete.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "\"Snow that once adorned the world in silver, thaws to reveal the gleam of the fruit upon frost-laden branches.\" *sigh* How picturesque! Only some tea would make this setting more complete."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__when_the_sun_is_out__0",
@@ -141,7 +322,14 @@
     "character": "Kamisato Ayaka",
     "section": "When the Sun Is Out",
     "chunk_index": 0,
-    "text": "There's a pleasant breeze and glorious sunshine... So, where shall we go for a walk?"
+    "text": "There's a pleasant breeze and glorious sunshine... So, where shall we go for a walk?",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "There's a pleasant breeze and glorious sunshine... So, where shall we go for a walk?"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__when_it's_windy__0",
@@ -150,7 +338,14 @@
     "character": "Kamisato Ayaka",
     "section": "When It's Windy",
     "chunk_index": 0,
-    "text": "Close your eyes and face the wind... It feels wonderful, doesn't it?"
+    "text": "Close your eyes and face the wind... It feels wonderful, doesn't it?",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Close your eyes and face the wind... It feels wonderful, doesn't it?"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__good_morning__0",
@@ -159,7 +354,14 @@
     "character": "Kamisato Ayaka",
     "section": "Good Morning",
     "chunk_index": 0,
-    "text": "Oh, good morning, Traveler....Whenever I see you in the morning, somehow, it makes me feel like... today is going to be a good day."
+    "text": "Oh, good morning, Traveler. ...Whenever I see you in the morning, somehow, it makes me feel like... today is going to be a good day.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Oh, good morning, Traveler. ...Whenever I see you in the morning, somehow, it makes me feel like... today is going to be a good day."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__good_afternoon__0",
@@ -168,7 +370,14 @@
     "character": "Kamisato Ayaka",
     "section": "Good Afternoon",
     "chunk_index": 0,
-    "text": "Good afternoon. It is normal to feel drowsy after lunch, might I interest you in a game of Go to stimulate the mind?"
+    "text": "Good afternoon. It is normal to feel drowsy after lunch, might I interest you in a game of Go to stimulate the mind?",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Good afternoon. It is normal to feel drowsy after lunch, might I interest you in a game of Go to stimulate the mind?"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__good_evening__0",
@@ -177,7 +386,14 @@
     "character": "Kamisato Ayaka",
     "section": "Good Evening",
     "chunk_index": 0,
-    "text": "Greetings. An auspicious breeze blows this evening. Tonight will be peaceful."
+    "text": "Greetings. An auspicious breeze blows this evening. Tonight will be peaceful.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Greetings. An auspicious breeze blows this evening. Tonight will be peaceful."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__good_night__0",
@@ -186,7 +402,14 @@
     "character": "Kamisato Ayaka",
     "section": "Good Night",
     "chunk_index": 0,
-    "text": "\"Was it one's thoughts that drew him to my dreams? Had I known it a dream, one would not have awakened.\" Hehe, I love that poem."
+    "text": "\"Was it one's thoughts that drew him to my dreams? Had I known it a dream, one would not have awakened.\" Hehe, I love that poem.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "\"Was it one's thoughts that drew him to my dreams? Had I known it a dream, one would not have awakened.\" Hehe, I love that poem."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_kamisato_ayaka:_yashiro_commission__0",
@@ -195,7 +418,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Kamisato Ayaka: Yashiro Commission",
     "chunk_index": 0,
-    "text": "\" Inazuma Shogunate , Yashiro Commission, Kamisato Clan.\" Widely known as one of the most distinguished clans in all of Inazuma, it is the branch of the Tri-Commission that manages ceremonial and cultural affairs. Since my parents passed, Brother and I assumed responsibility for all clan matters, big and small."
+    "text": "\" Inazuma Shogunate , Yashiro Commission, Kamisato Clan .\" Widely known as one of the most distinguished clans in all of Inazuma, it is the branch of the Tri-Commission that manages ceremonial and cultural affairs. Since my parents passed, Brother and I assumed responsibility for all clan matters, big and small.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "\" Inazuma Shogunate , Yashiro Commission, Kamisato Clan .\" Widely known as one of the most distinguished clans in all of Inazuma, it is the branch of the Tri-Commission that manages ceremonial and cultural affairs. Since my parents passed, Brother and I assumed responsibility for all clan matters, big and small."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_kamisato_ayaka:_position__0",
@@ -204,7 +434,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Kamisato Ayaka: Position",
     "chunk_index": 0,
-    "text": "Many look up to me as the Shirasagi Himegimi and as the daughter of the Kamisato Clan. But the object of their respect has everything to do with my position, and nothing at all to do with me, Ayaka. It makes me think that... maybe, there is only one person I know who is truly able to get close to me..."
+    "text": "Many look up to me as the Shirasagi Himegimi and as the daughter of the Kamisato Clan. But the object of their respect has everything to do with my position, and nothing at all to do with me, Ayaka. It makes me think that... maybe, there is only one person I know who is truly able to get close to me...",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Many look up to me as the Shirasagi Himegimi and as the daughter of the Kamisato Clan. But the object of their respect has everything to do with my position, and nothing at all to do with me, Ayaka. It makes me think that... maybe, there is only one person I know who is truly able to get close to me..."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_kamisato_ayaka:_aspiration__0",
@@ -213,7 +450,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Kamisato Ayaka: Aspiration",
     "chunk_index": 0,
-    "text": "Today, as in the past, I aspire to be somebody whom everyone can trust. But what motivates me is no longer the responsibilities I shoulder, or the expectations of other people. Rather, it is the fact that you are this kind of person, too."
+    "text": "Today, as in the past, I aspire to be somebody whom everyone can trust. But what motivates me is no longer the responsibilities I shoulder, or the expectations of other people. Rather, it is the fact that you are this kind of person, too.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Today, as in the past, I aspire to be somebody whom everyone can trust. But what motivates me is no longer the responsibilities I shoulder, or the expectations of other people. Rather, it is the fact that you are this kind of person, too."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_us:_teahouse__0",
@@ -222,7 +466,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Us: Teahouse",
     "chunk_index": 0,
-    "text": "If you've got time, shall we take a walk to Komore Teahouse ? To chat about the art of tea on a pleasant day like this seems like the sophisticated thing to do."
+    "text": "If you've got time, shall we take a walk to Komore Teahouse ? To chat about the art of tea on a pleasant day like this seems like the sophisticated thing to do.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "If you've got time, shall we take a walk to Komore Teahouse ? To chat about the art of tea on a pleasant day like this seems like the sophisticated thing to do."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_us:_festivals__0",
@@ -231,7 +482,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Us: Festivals",
     "chunk_index": 0,
-    "text": "If I ever have the chance, I would very much like to experience the festivities of another nation with you one day. Though, I will need some guidance on local customs and etiquette, and advice on what gifts to bring... Could I trouble you to give me some guidance?"
+    "text": "If I ever have the chance, I would very much like to experience the festivities of another nation with you one day. Though, I will need some guidance on local customs and etiquette, and advice on what gifts to bring... Could I trouble you to give me some guidance?",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "If I ever have the chance, I would very much like to experience the festivities of another nation with you one day. Though, I will need some guidance on local customs and etiquette, and advice on what gifts to bring... Could I trouble you to give me some guidance?"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_the_vision__0",
@@ -240,7 +498,14 @@
     "character": "Kamisato Ayaka",
     "section": "About the Vision",
     "chunk_index": 0,
-    "text": "Visions are a seal of approval for those who are most ambitious. As for my own ambitions, they shall remain private for now. It is nothing more than an insignificant dream."
+    "text": "Visions are a seal of approval for those who are most ambitious. As for my own ambitions, they shall remain private for now. It is nothing more than an insignificant dream.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Visions are a seal of approval for those who are most ambitious. As for my own ambitions, they shall remain private for now. It is nothing more than an insignificant dream."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__something_to_share__0",
@@ -249,7 +514,14 @@
     "character": "Kamisato Ayaka",
     "section": "Something to Share",
     "chunk_index": 0,
-    "text": "It is said that \"the flavor of Zen is that of tea,\" and it is also said that \"the power of Zen is that of the blade.\" One might then ask: What does that say about the relationship between tea and the blade?"
+    "text": "It is said that \"the flavor of Zen is that of tea,\" and it is also said that \"the power of Zen is that of the blade.\" One might then ask: What does that say about the relationship between tea and the blade?",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "It is said that \"the flavor of Zen is that of tea,\" and it is also said that \"the power of Zen is that of the blade.\" One might then ask: What does that say about the relationship between tea and the blade?"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__interesting_things__0",
@@ -258,7 +530,14 @@
     "character": "Kamisato Ayaka",
     "section": "Interesting Things",
     "chunk_index": 0,
-    "text": "Have you ever noticed the withering sakura tree in the city? For me, there is a beauty to the withering, it brings back fond memories of the spring. Most people don't agree — sakura trees that will never bloom again are removed. But when I look at a tree, all I want is to see it blossom again... just one more time..."
+    "text": "Have you ever noticed the withering sakura tree in the city? For me, there is a beauty to the withering, it brings back fond memories of the spring. Most people don't agree — sakura trees that will never bloom again are removed. But when I look at a tree, all I want is to see it blossom again... just one more time...",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Have you ever noticed the withering sakura tree in the city? For me, there is a beauty to the withering, it brings back fond memories of the spring. Most people don't agree — sakura trees that will never bloom again are removed. But when I look at a tree, all I want is to see it blossom again... just one more time..."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_thoma__0",
@@ -267,7 +546,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Thoma",
     "chunk_index": 0,
-    "text": "Thoma is a dear friend. He always lifts my spirits with his sunny disposition. In a sense, I think of him as another brother, and as a full member of the Kamisato Clan."
+    "text": "Thoma is a dear friend. He always lifts my spirits with his sunny disposition. In a sense, I think of him as another brother, and as a full member of the Kamisato Clan.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Thoma is a dear friend. He always lifts my spirits with his sunny disposition. In a sense, I think of him as another brother, and as a full member of the Kamisato Clan."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_kujou_sara__0",
@@ -276,7 +562,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Kujou Sara",
     "chunk_index": 0,
-    "text": "Kujou Sara of the Tenryou Commission is... not known to smile, and I have had my fair share of disputes with her. She is, however, a loyal servant to Inazuma, there is no question about that."
+    "text": "Kujou Sara of the Tenryou Commission is... not known to smile, and I have had my fair share of disputes with her. She is, however, a loyal servant to Inazuma, there is no question about that.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Kujou Sara of the Tenryou Commission is... not known to smile, and I have had my fair share of disputes with her. She is, however, a loyal servant to Inazuma, there is no question about that."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_shikanoin_heizou__0",
@@ -285,7 +578,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Shikanoin Heizou",
     "chunk_index": 0,
-    "text": "Mr. Shikanoin belongs to the Tenryou Commission, just like Miss Kujou. He is very... principled, sometimes even more determinedly so than Miss Kujou. The only thing is, when it comes to the question of which matters should be governed by his principles, I believe only Mr. Shikanoin himself knows the answer..."
+    "text": "Mr. Shikanoin belongs to the Tenryou Commission, just like Miss Kujou . He is very... principled, sometimes even more determinedly so than Miss Kujou. The only thing is, when it comes to the question of which matters should be governed by his principles, I believe only Mr. Shikanoin himself knows the answer...",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Mr. Shikanoin belongs to the Tenryou Commission, just like Miss Kujou . He is very... principled, sometimes even more determinedly so than Miss Kujou. The only thing is, when it comes to the question of which matters should be governed by his principles, I believe only Mr. Shikanoin himself knows the answer..."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_sayu__0",
@@ -294,7 +594,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Sayu",
     "chunk_index": 0,
-    "text": "Ah, little Sayu. She hasn't been causing you any trouble lately, has she? Hehe, if you ever notice her slacking off, please let me know."
+    "text": "Ah, little Sayu. She hasn't been causing you any trouble lately, has she? Hehe, if you ever notice her slacking off, please let me know.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Ah, little Sayu. She hasn't been causing you any trouble lately, has she? Hehe, if you ever notice her slacking off, please let me know."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_the_raiden_shogun:_guesswork__0",
@@ -303,7 +610,14 @@
     "character": "Kamisato Ayaka",
     "section": "About the Raiden Shogun: Guesswork",
     "chunk_index": 0,
-    "text": "The Almighty Shogun? It would be improper of me to comment, given that I am one of her subjects. All I will say is that... I think that Her Excellency must get lonely on the road to eternity."
+    "text": "The Almighty Shogun? It would be improper of me to comment, given that I am one of her subjects. All I will say is that... I think that Her Excellency must get lonely on the road to eternity.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "The Almighty Shogun? It would be improper of me to comment, given that I am one of her subjects. All I will say is that... I think that Her Excellency must get lonely on the road to eternity."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_the_raiden_shogun:_standpoint__0",
@@ -312,7 +626,14 @@
     "character": "Kamisato Ayaka",
     "section": "About the Raiden Shogun: Standpoint",
     "chunk_index": 0,
-    "text": "To witness the Musou no Hitotachi and live to tell the tale is quite a remarkable feat. Even though I recognize her as our true deity with the power to change Inazuma's fate at will, if there is conflict between the two of you, then... I shall choose to side with you."
+    "text": "To witness the Musou no Hitotachi and live to tell the tale is quite a remarkable feat. Even though I recognize her as our true deity with the power to change Inazuma's fate at will, if there is conflict between the two of you, then... I shall choose to side with you.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "To witness the Musou no Hitotachi and live to tell the tale is quite a remarkable feat. Even though I recognize her as our true deity with the power to change Inazuma's fate at will, if there is conflict between the two of you, then... I shall choose to side with you."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_yae_miko__0",
@@ -321,7 +642,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Yae Miko",
     "chunk_index": 0,
-    "text": "I have always greatly enjoyed working with Guuji Yae. Organizing festival affairs generally takes a lot of effort and doesn't generate much income, but Guuji Yae's events always come off both elegant and profitable."
+    "text": "I have always greatly enjoyed working with Guuji Yae. Organizing festival affairs generally takes a lot of effort and doesn't generate much income, but Guuji Yae's events always come off both elegant and profitable.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "I have always greatly enjoyed working with Guuji Yae. Organizing festival affairs generally takes a lot of effort and doesn't generate much income, but Guuji Yae's events always come off both elegant and profitable."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_kamisato_ayato__0",
@@ -330,7 +658,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Kamisato Ayato",
     "chunk_index": 0,
-    "text": "As the head of the Kamisato Clan, brother always has a full schedule of places he needs to be. I do try my best to share his load, but there is no changing the pressure he is subjected to all year round, and the toll it takes upon him. *sigh* If you see him, remind him to take care of himself, for his sister's sake..."
+    "text": "As the head of the Kamisato Clan, brother always has a full schedule of places he needs to be. I do try my best to share his load, but there is no changing the pressure he is subjected to all year round, and the toll it takes upon him. *sigh* If you see him, remind him to take care of himself, for his sister's sake...",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "As the head of the Kamisato Clan, brother always has a full schedule of places he needs to be. I do try my best to share his load, but there is no changing the pressure he is subjected to all year round, and the toll it takes upon him. *sigh* If you see him, remind him to take care of himself, for his sister's sake..."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__about_yoimiya__0",
@@ -339,7 +674,14 @@
     "character": "Kamisato Ayaka",
     "section": "About Yoimiya",
     "chunk_index": 0,
-    "text": "The Yashiro Commission and the shrine maidens are responsible for festival affairs, and Yoimiya, as a fireworks expert, knows how to create an atmosphere. So we have become well acquainted with her over the years. Hmm? Public order and fire prevention? We factor these concerns in well in advance during the planning stage. To deny people the chance to see fireworks simply for these reasons would leave them feeling very disappointed."
+    "text": "The Yashiro Commission and the shrine maidens are responsible for festival affairs, and Yoimiya, as a fireworks expert, knows how to create an atmosphere. So we have become well acquainted with her over the years. Hmm? Public order and fire prevention? We factor these concerns in well in advance during the planning stage. To deny people the chance to see fireworks simply for these reasons would leave them feeling very disappointed.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "The Yashiro Commission and the shrine maidens are responsible for festival affairs, and Yoimiya, as a fireworks expert, knows how to create an atmosphere. So we have become well acquainted with her over the years. Hmm? Public order and fire prevention? We factor these concerns in well in advance during the planning stage. To deny people the chance to see fireworks simply for these reasons would leave them feeling very disappointed."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__more_about_kamisato_ayaka:_i__0",
@@ -348,7 +690,14 @@
     "character": "Kamisato Ayaka",
     "section": "More About Kamisato Ayaka: I",
     "chunk_index": 0,
-    "text": "Your request is quite unusual for me. Since I see you as a friend, it would only be fair to be open and honest with you, but if this means sharing secrets of the Kamisato Clan... I would ask that you keep anything I tell you in strict confidence."
+    "text": "Your request is quite unusual for me. Since I see you as a friend, it would only be fair to be open and honest with you, but if this means sharing secrets of the Kamisato Clan... I would ask that you keep anything I tell you in strict confidence.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Your request is quite unusual for me. Since I see you as a friend, it would only be fair to be open and honest with you, but if this means sharing secrets of the Kamisato Clan... I would ask that you keep anything I tell you in strict confidence."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__more_about_kamisato_ayaka:_ii__0",
@@ -357,7 +706,14 @@
     "character": "Kamisato Ayaka",
     "section": "More About Kamisato Ayaka: II",
     "chunk_index": 0,
-    "text": "The Kamisato Clan once suffered a major blow when we failed to protect a swordsmith of national significance. We were harassed by the Fatui , we lost many of our people, and we received a great deal of criticism. It all aged Father greatly, and severely damaged the Kamisato Clan's standing within the Shogunate. Brother has worked tirelessly to reverse the trend since he assumed leadership, but although our clan's position is now restored and the Yashiro Commission is unified once more, we still rely on Brother to make the decisions on all matters of any importance."
+    "text": "The Kamisato Clan once suffered a major blow when we failed to protect a swordsmith of national significance. We were harassed by the Fatui , we lost many of our people, and we received a great deal of criticism. It all aged Father greatly, and severely damaged the Kamisato Clan's standing within the Shogunate. Brother has worked tirelessly to reverse the trend since he assumed leadership, but although our clan's position is now restored and the Yashiro Commission is unified once more, we still rely on Brother to make the decisions on all matters of any importance.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "The Kamisato Clan once suffered a major blow when we failed to protect a swordsmith of national significance. We were harassed by the Fatui , we lost many of our people, and we received a great deal of criticism. It all aged Father greatly, and severely damaged the Kamisato Clan's standing within the Shogunate. Brother has worked tirelessly to reverse the trend since he assumed leadership, but although our clan's position is now restored and the Yashiro Commission is unified once more, we still rely on Brother to make the decisions on all matters of any importance."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__more_about_kamisato_ayaka:_iii__0",
@@ -366,7 +722,14 @@
     "character": "Kamisato Ayaka",
     "section": "More About Kamisato Ayaka: III",
     "chunk_index": 0,
-    "text": "The art of blade forging taught by the Shogun varies based on astrology, application, materials used, the furnace conditions, individual personalities, and elemental changes. These differences between smiths is what gave rise to the Raiden Gokaden. Swordsmiths capable of forging renowned blades are seen as spiritual personnel with sacred abilities, and as such they should be managed by the Yashiro Commission, which oversees all cultural, artistic, and ceremonial affairs. So naturally, the swordsmith's betrayal is the fault of ineffectual management by the Kamisato Clan."
+    "text": "The art of blade forging taught by the Shogun varies based on astrology, application, materials used, the furnace conditions, individual personalities, and elemental changes. These differences between smiths is what gave rise to the Raiden Gokaden . Swordsmiths capable of forging renowned blades are seen as spiritual personnel with sacred abilities, and as such they should be managed by the Yashiro Commission, which oversees all cultural, artistic, and ceremonial affairs. So naturally, the swordsmith's betrayal is the fault of ineffectual management by the Kamisato Clan.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "The art of blade forging taught by the Shogun varies based on astrology, application, materials used, the furnace conditions, individual personalities, and elemental changes. These differences between smiths is what gave rise to the Raiden Gokaden . Swordsmiths capable of forging renowned blades are seen as spiritual personnel with sacred abilities, and as such they should be managed by the Yashiro Commission, which oversees all cultural, artistic, and ceremonial affairs. So naturally, the swordsmith's betrayal is the fault of ineffectual management by the Kamisato Clan."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__more_about_kamisato_ayaka:_iv__0",
@@ -375,7 +738,14 @@
     "character": "Kamisato Ayaka",
     "section": "More About Kamisato Ayaka: IV",
     "chunk_index": 0,
-    "text": "My mother was the most incredible person. She was always so dignified and elegant, always smiling, no matter what situation she might be facing. She had so much to deal with in the clan on so many levels, but she took it all in stride — it was like nothing could ever faze her. Everything about her was perfect, and I say that without exaggerating. *sigh* But the moment she passed away, I realized... I couldn't hide behind my mother any longer. I wasn't little Ayaka any more."
+    "text": "My mother was the most incredible person. She was always so dignified and elegant, always smiling, no matter what situation she might be facing. She had so much to deal with in the clan on so many levels, but she took it all in stride — it was like nothing could ever faze her. Everything about her was perfect, and I say that without exaggerating. *sigh* But the moment she passed away, I realized... I couldn't hide behind my mother any longer. I wasn't little Ayaka any more.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "My mother was the most incredible person. She was always so dignified and elegant, always smiling, no matter what situation she might be facing. She had so much to deal with in the clan on so many levels, but she took it all in stride — it was like nothing could ever faze her. Everything about her was perfect, and I say that without exaggerating. *sigh* But the moment she passed away, I realized... I couldn't hide behind my mother any longer. I wasn't little Ayaka any more."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__more_about_kamisato_ayaka:_v__0",
@@ -384,7 +754,14 @@
     "character": "Kamisato Ayaka",
     "section": "More About Kamisato Ayaka: V",
     "chunk_index": 0,
-    "text": "What I want to say next is perhaps not befitting of a member of the Inazuma Shogunate, Yashiro Commission, Kamisato Clan, but... unless I am mistaken, I trust that you will not take issue with this slight departure from convention on my part... That is to say... I'm a little tired, may I rest my head on your shoulder? Just for a moment."
+    "text": "What I want to say next is perhaps not befitting of a member of the Inazuma Shogunate, Yashiro Commission, Kamisato Clan, but... unless I am mistaken, I trust that you will not take issue with this slight departure from convention on my part... That is to say... I'm a little tired, may I rest my head on your shoulder? Just for a moment.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "What I want to say next is perhaps not befitting of a member of the Inazuma Shogunate, Yashiro Commission, Kamisato Clan, but... unless I am mistaken, I trust that you will not take issue with this slight departure from convention on my part... That is to say... I'm a little tired, may I rest my head on your shoulder? Just for a moment."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__kamisato_ayaka's_hobbies__0",
@@ -393,7 +770,14 @@
     "character": "Kamisato Ayaka",
     "section": "Kamisato Ayaka's Hobbies",
     "chunk_index": 0,
-    "text": "I have great affection for the arts: music, song, poetry, shougi, and dancing. And you?"
+    "text": "I have great affection for the arts: music, song, poetry, shougi, and dancing. And you?",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "I have great affection for the arts: music, song, poetry, shougi, and dancing. And you?"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__kamisato_ayaka's_troubles:_concerns__0",
@@ -402,7 +786,14 @@
     "character": "Kamisato Ayaka",
     "section": "Kamisato Ayaka's Troubles: Concerns",
     "chunk_index": 0,
-    "text": "Troubles? Well, I mean... that's life, isn't it? There will always be things that don't go one's way. But I do not wish to worry those around me on account of things that are my concern alone... so, it is best if I keep them to myself."
+    "text": "Troubles? Well, I mean... that's life, isn't it? There will always be things that don't go one's way. But I do not wish to worry those around me on account of things that are my concern alone... so, it is best if I keep them to myself.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Troubles? Well, I mean... that's life, isn't it? There will always be things that don't go one's way. But I do not wish to worry those around me on account of things that are my concern alone... so, it is best if I keep them to myself."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__kamisato_ayaka's_troubles:_desires__0",
@@ -411,7 +802,14 @@
     "character": "Kamisato Ayaka",
     "section": "Kamisato Ayaka's Troubles: Desires",
     "chunk_index": 0,
-    "text": "Openness is something I find very difficult. I constantly have to remind myself that as a lady of the Kamisato Clan, there are countless people watching and countless expectations to live up to. I must be a model of exemplary conduct at all times. But even so, shouldn't I still follow my dreams? Shouldn't I... share my true feelings with you?"
+    "text": "Openness is something I find very difficult. I constantly have to remind myself that as a lady of the Kamisato Clan, there are countless people watching and countless expectations to live up to. I must be a model of exemplary conduct at all times. But even so, shouldn't I still follow my dreams? Shouldn't I... share my true feelings with you?",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Openness is something I find very difficult. I constantly have to remind myself that as a lady of the Kamisato Clan, there are countless people watching and countless expectations to live up to. I must be a model of exemplary conduct at all times. But even so, shouldn't I still follow my dreams? Shouldn't I... share my true feelings with you?"
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__favorite_food__0",
@@ -420,7 +818,14 @@
     "character": "Kamisato Ayaka",
     "section": "Favorite Food",
     "chunk_index": 0,
-    "text": "I'm fascinated by food from overseas. Though I don't get to try it very often... So, if I had to choose something from Inazuma, then probably... Chazuke. But not when anybody else is watching... So I tell you that in confidence."
+    "text": "I'm fascinated by food from overseas. Though I don't get to try it very often... So, if I had to choose something from Inazuma, then probably... Chazuke. But not when anybody else is watching... So I tell you that in confidence.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "I'm fascinated by food from overseas. Though I don't get to try it very often... So, if I had to choose something from Inazuma, then probably... Chazuke. But not when anybody else is watching... So I tell you that in confidence."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__least_favorite_food__0",
@@ -429,7 +834,14 @@
     "character": "Kamisato Ayaka",
     "section": "Least Favorite Food",
     "chunk_index": 0,
-    "text": "Though I do not eschew animal fat and organs entirely, they are far from my first choice."
+    "text": "Though I do not eschew animal fat and organs entirely, they are far from my first choice.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Though I do not eschew animal fat and organs entirely, they are far from my first choice."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__receiving_a_gift:_ii__0",
@@ -438,7 +850,14 @@
     "character": "Kamisato Ayaka",
     "section": "Receiving a Gift: II",
     "chunk_index": 0,
-    "text": "Thank you for the opportunity to try this dish. I will always savor it."
+    "text": "Thank you for the opportunity to try this dish. I will always savor it.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Thank you for the opportunity to try this dish. I will always savor it."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__receiving_a_gift:_iii__0",
@@ -447,7 +866,14 @@
     "character": "Kamisato Ayaka",
     "section": "Receiving a Gift: III",
     "chunk_index": 0,
-    "text": "Hmm... It's a bit greasy for my taste."
+    "text": "Hmm... It's a bit greasy for my taste.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Hmm... It's a bit greasy for my taste."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__birthday__0",
@@ -456,7 +882,14 @@
     "character": "Kamisato Ayaka",
     "section": "Birthday",
     "chunk_index": 0,
-    "text": "Come with me! We're not going far away — I promise it won't delay you too much. I managed to find out when your birthday was well in advance, so I could prepare in good time. Hopefully this wasn't assuming too much, but I guessed you might prefer this to an expensive gift. In honor of your birthday, please allow me to perform a fan dance for you."
+    "text": "Come with me! We're not going far away — I promise it won't delay you too much. I managed to find out when your birthday was well in advance, so I could prepare in good time. Hopefully this wasn't assuming too much, but I guessed you might prefer this to an expensive gift. In honor of your birthday, please allow me to perform a fan dance for you.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Come with me! We're not going far away — I promise it won't delay you too much. I managed to find out when your birthday was well in advance, so I could prepare in good time. Hopefully this wasn't assuming too much, but I guessed you might prefer this to an expensive gift. In honor of your birthday, please allow me to perform a fan dance for you."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__feelings_about_ascension:_intro__0",
@@ -465,7 +898,14 @@
     "character": "Kamisato Ayaka",
     "section": "Feelings About Ascension: Intro",
     "chunk_index": 0,
-    "text": "Thank you very much. It has been richly rewarding to learn from you so far, and I believe my skills with the blade can go even further still."
+    "text": "Thank you very much. It has been richly rewarding to learn from you so far, and I believe my skills with the blade can go even further still.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Thank you very much. It has been richly rewarding to learn from you so far, and I believe my skills with the blade can go even further still."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__feelings_about_ascension:_building_up__0",
@@ -474,7 +914,14 @@
     "character": "Kamisato Ayaka",
     "section": "Feelings About Ascension: Building Up",
     "chunk_index": 0,
-    "text": "Thank you for your guidance. With your assistance, I am gaining a more thorough understanding of my capabilities."
+    "text": "Thank you for your guidance. With your assistance, I am gaining a more thorough understanding of my capabilities.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Thank you for your guidance. With your assistance, I am gaining a more thorough understanding of my capabilities."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__feelings_about_ascension:_climax__0",
@@ -483,7 +930,14 @@
     "character": "Kamisato Ayaka",
     "section": "Feelings About Ascension: Climax",
     "chunk_index": 0,
-    "text": "I feel more competent now than ever before. I even have the time outside my work for the Yashiro Commission to try some new things. Would you like to try one of my home-made snacks? I just learned how to make them recently."
+    "text": "I feel more competent now than ever before. I even have the time outside my work for the Yashiro Commission to try some new things. Would you like to try one of my home-made snacks? I just learned how to make them recently.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "I feel more competent now than ever before. I even have the time outside my work for the Yashiro Commission to try some new things. Would you like to try one of my home-made snacks? I just learned how to make them recently."
+      }
+    ]
   },
   {
     "chunk_id": "wiki_kamisato_ayaka_voice_overs__feelings_about_ascension:_conclusion__0",
@@ -492,6 +946,1316 @@
     "character": "Kamisato Ayaka",
     "section": "Feelings About Ascension: Conclusion",
     "chunk_index": 0,
-    "text": "\"Though I cling to that which has given me the strength to hold on, the weight of letting go is ever-foreboding.\" My apologies, it should be a happy occasion, and yet it is such a sad phrase that comes to mind. Our time together has been so pleasant that I am fearful of losing what I have gained. I'm sorry, I must compose myself."
+    "text": "\"Though I cling to that which has given me the strength to hold on, the weight of letting go is ever-foreboding.\" My apologies, it should be a happy occasion, and yet it is such a sad phrase that comes to mind. Our time together has been so pleasant that I am fearful of losing what I have gained. I'm sorry, I must compose myself.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "\"Though I cling to that which has given me the strength to hold on, the weight of letting go is ever-foreboding.\" My apologies, it should be a happy occasion, and yet it is such a sad phrase that comes to mind. Our time together has been so pleasant that I am fearful of losing what I have gained. I'm sorry, I must compose myself."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__introduction__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Introduction",
+    "chunk_index": 0,
+    "text": "Shuumatsuban Suspicions is a quest in .",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Shuumatsuban Suspicions is a quest in ."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__steps__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Steps",
+    "chunk_index": 0,
+    "text": "# Go to the agreed place and wait for the other party\n#*Ask Ogawa to tell the truth. Proceed to The Truth Behind the Order.\n#*Hand Ogawa over to the Yashiro Commission. Procceed to Face-Off.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "# Go to the agreed place and wait for the other party"
+      },
+      {
+        "type": "text",
+        "text": "#*Ask Ogawa to tell the truth. Proceed to The Truth Behind the Order."
+      },
+      {
+        "type": "text",
+        "text": "#*Hand Ogawa over to the Yashiro Commission. Procceed to Face-Off."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__the_truth_behind_the_order__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "The Truth Behind the Order",
+    "chunk_index": 0,
+    "text": "#Go with Ogawa to meet the Kairagi\n#*Sayu will join the team as a trial character.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "#Go with Ogawa to meet the Kairagi"
+      },
+      {
+        "type": "text",
+        "text": "#*Sayu will join the team as a trial character."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__face-off__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Face-Off",
+    "chunk_index": 0,
+    "text": "#Bring Ogawa to the Yashiro Commission for a confrontation",
+    "entries": [
+      {
+        "type": "text",
+        "text": "#Bring Ogawa to the Yashiro Commission for a confrontation"
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__two_can_play_this_game__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Two Can Play This Game",
+    "chunk_index": 0,
+    "text": "Approach the location\nSayu, is it true? Have you completed the mission?\nI don't recall you ever taking any ambush missions before. How were you able to deal with the renowned Traveler so swiftly?\nUh, well... You see, I... I caught off guard! Yeah, that's it, didn't have time to react.\nAll it took was one THUMP! Then BAM! And it was over...\nOh no, how could this be. I really didn't see this coming...\nDon't you usually just ignore your orders from the Shuumatsuban? How was I supposed to know that you'd actually take this one and finish it so efficiently?\nUh, well, I don't feel sleepy every day, you know.\nSo don't underestimate me. My sensei did teach me some ambush techniques, I just never used them before, that's all.\nI see... Fine, I'll report back then.\nHey, wait! Don't leave! , you can come out now!\nDon't even think about running off.\nHuh!? Explain yourself, Sayu. What's going on here? So... you were lying to me the whole time? The Traveler is still alive?\nAlive and in the flesh.\nThe shrine maiden already confirmed that there was no such mission.",
+    "entries": [
+      {
+        "type": "action",
+        "text": "Approach the location"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Sayu, is it true? Have you completed the mission?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "I don't recall you ever taking any ambush missions before. How were you able to deal with the renowned Traveler so swiftly?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Uh, well... You see, I... I caught off guard! Yeah, that's it, didn't have time to react."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "All it took was one THUMP! Then BAM! And it was over..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Oh no, how could this be. I really didn't see this coming..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Don't you usually just ignore your orders from the Shuumatsuban? How was I supposed to know that you'd actually take this one and finish it so efficiently?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Uh, well, I don't feel sleepy every day, you know."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "So don't underestimate me. My sensei did teach me some ambush techniques, I just never used them before, that's all."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "I see... Fine, I'll report back then."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Hey, wait! Don't leave! , you can come out now!"
+      },
+      {
+        "type": "text",
+        "text": "Don't even think about running off."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Huh!? Explain yourself, Sayu. What's going on here? So... you were lying to me the whole time? The Traveler is still alive?"
+      },
+      {
+        "type": "text",
+        "text": "Alive and in the flesh."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "The shrine maiden already confirmed that there was no such mission."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__two_can_play_this_game__1",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Two Can Play This Game",
+    "chunk_index": 1,
+    "text": "Alive and in the flesh.\nThe shrine maiden already confirmed that there was no such mission.\nSo we decided to catch you red-handed in your own game, you sneaky sneak.\nW—Wait, I can explain! It's not what you think!\nYes, I was the one who forged the ambush mission, but I had good reason to!\nTell us the truth, no more lies!\nProceed to Branch 1\nSave it for the Yashiro Commission. I'm sure they'd love to hear your story.\nProceed to Branch 2",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Alive and in the flesh."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "The shrine maiden already confirmed that there was no such mission."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "So we decided to catch you red-handed in your own game, you sneaky sneak."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "W—Wait, I can explain! It's not what you think!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Yes, I was the one who forged the ambush mission, but I had good reason to!"
+      },
+      {
+        "type": "text",
+        "text": "Tell us the truth, no more lies!"
+      },
+      {
+        "type": "action",
+        "text": "Proceed to Branch 1"
+      },
+      {
+        "type": "text",
+        "text": "Save it for the Yashiro Commission. I'm sure they'd love to hear your story."
+      },
+      {
+        "type": "action",
+        "text": "Proceed to Branch 2"
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__branch_1__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Branch 1",
+    "chunk_index": 0,
+    "text": "Tell us the truth, no more lies!\nJust hear me out! You see, last night, my little daughter suddenly disappeared from home. I was starting to get worried when a Kairagi appeared at my door and told me they'd taken her.\nThey told me I'd only see my kid again if I did exactly as they said. Their terms were for me to forge orders from the Yashiro Commission and dispatch a ninja to ambush the Traveler.\nHuh? That doesn't make sense... Why would the Kairagi want to ambush the Traveler? And why the Shuumatsuban?\nI fight the Kairagi on a daily basis, it only makes sense that they would seek revenge.\nOh, no wonder...\nMaybe they know that they're not strong enough to take me out, so they wanted to hire an expert to do the job.\nThat seems about right. I was puzzled myself, but they didn't tell me anything... and I didn't dare to ask.\nI was scared out of my wits. I simply did whatever they told me to.\nThen it dawned on me that Sayu was the only ninja that never carried out such confrontational tasks, and that Kano Nana is her guardian.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Tell us the truth, no more lies!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Just hear me out! You see, last night, my little daughter suddenly disappeared from home. I was starting to get worried when a Kairagi appeared at my door and told me they'd taken her."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "They told me I'd only see my kid again if I did exactly as they said. Their terms were for me to forge orders from the Yashiro Commission and dispatch a ninja to ambush the Traveler."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Huh? That doesn't make sense... Why would the Kairagi want to ambush the Traveler? And why the Shuumatsuban?"
+      },
+      {
+        "type": "text",
+        "text": "I fight the Kairagi on a daily basis, it only makes sense that they would seek revenge."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Oh, no wonder..."
+      },
+      {
+        "type": "text",
+        "text": "Maybe they know that they're not strong enough to take me out, so they wanted to hire an expert to do the job."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "That seems about right. I was puzzled myself, but they didn't tell me anything... and I didn't dare to ask."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "I was scared out of my wits. I simply did whatever they told me to."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Then it dawned on me that Sayu was the only ninja that never carried out such confrontational tasks, and that Kano Nana is her guardian."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__branch_1__1",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Branch 1",
+    "chunk_index": 1,
+    "text": "I was scared out of my wits. I simply did whatever they told me to.\nThen it dawned on me that Sayu was the only ninja that never carried out such confrontational tasks, and that Kano Nana is her guardian.\nSo I thought that if I assigned the task to Sayu, it wouldn't be a threat to you at all. Half the time she never even completes her tasks.\nTo my surprise, just as I was about to secretly contact the Tenryou Commission and save my kid, I found Sayu's bag in the mission crate indicating that the job was taken care of... It scared me half to death.\nNo wonder you looked so unhappy when I met with you.\nOf course, given the Traveler's position in the Yashiro Commission, who would dare make any move against them... After hearing Sayu carried out the task, I really felt things were spinning out of control.\nTo be honest, I was relieved to see that you were all right.\nHe seems to be telling the truth.\nHe did seem a bit relieved when I appeared. Now it makes sense.\nAre the Kairagi still holding your child hostage?",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "I was scared out of my wits. I simply did whatever they told me to."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Then it dawned on me that Sayu was the only ninja that never carried out such confrontational tasks, and that Kano Nana is her guardian."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "So I thought that if I assigned the task to Sayu, it wouldn't be a threat to you at all. Half the time she never even completes her tasks."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "To my surprise, just as I was about to secretly contact the Tenryou Commission and save my kid, I found Sayu's bag in the mission crate indicating that the job was taken care of... It scared me half to death."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "No wonder you looked so unhappy when I met with you."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Of course, given the Traveler's position in the Yashiro Commission, who would dare make any move against them... After hearing Sayu carried out the task, I really felt things were spinning out of control."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "To be honest, I was relieved to see that you were all right."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "He seems to be telling the truth."
+      },
+      {
+        "type": "text",
+        "text": "He did seem a bit relieved when I appeared. Now it makes sense."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Are the Kairagi still holding your child hostage?"
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__branch_1__2",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Branch 1",
+    "chunk_index": 2,
+    "text": "He did seem a bit relieved when I appeared. Now it makes sense.\nAre the Kairagi still holding your child hostage?\nYes, that's right. Myself and the Tenryou Commission are both at a loss as to what to do now...\nIf the Kairagi catch on to us, they might harm my child... *sigh* No, we mustn't let that happen, no matter what.\nSeems we need to come up with a plan of our own.\nWhat do you suggest?\nThink about it this way... If I did successfully ambush the Traveler, you would still have to report it to the Kairagi.\nAh, I see. I'll use the evidence to rescue my daughter!\nBut there's a chance the Kairagi won't go along with it.\nNo worries, we'll be hiding nearby, so we can act if we need to.\n: Sayu: Now I can put my ninjutsu to good use, heh!\nSeems you've considered all the possible angles.\n: Sayu: It's a serious situation, we should all be vigilant.\nThen it's decided. I'll contact the Kairagi as well as the Tenryou Commission.\nMy child's safety is in your hands. Please, don't let anything happen to her.\nProceed to The Truth Behind the Order",
+    "entries": [
+      {
+        "type": "text",
+        "text": "He did seem a bit relieved when I appeared. Now it makes sense."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Are the Kairagi still holding your child hostage?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Yes, that's right. Myself and the Tenryou Commission are both at a loss as to what to do now..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "If the Kairagi catch on to us, they might harm my child... *sigh* No, we mustn't let that happen, no matter what."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Seems we need to come up with a plan of our own."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "What do you suggest?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Think about it this way... If I did successfully ambush the Traveler, you would still have to report it to the Kairagi."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Ah, I see. I'll use the evidence to rescue my daughter!"
+      },
+      {
+        "type": "text",
+        "text": "But there's a chance the Kairagi won't go along with it."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "No worries, we'll be hiding nearby, so we can act if we need to."
+      },
+      {
+        "type": "text",
+        "text": ": Sayu: Now I can put my ninjutsu to good use, heh!"
+      },
+      {
+        "type": "text",
+        "text": "Seems you've considered all the possible angles."
+      },
+      {
+        "type": "text",
+        "text": ": Sayu: It's a serious situation, we should all be vigilant."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Then it's decided. I'll contact the Kairagi as well as the Tenryou Commission."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "My child's safety is in your hands. Please, don't let anything happen to her."
+      },
+      {
+        "type": "action",
+        "text": "Proceed to The Truth Behind the Order"
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__the_truth_behind_the_order__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "The Truth Behind the Order",
+    "chunk_index": 0,
+    "text": "Approach the location\nIt seems the Kairagi has arrived. Oh, and that must be Mr. Ogawa's daughter.\nEven after they hear the news that the ambush has been completed, there's no telling whether they'd make good on their promise to Mr. Ogawa.\nThey really have no honor, do they?\nI'm sure they'll still want more.\nI see...\nAlright, I'll stay wide awake and fully alert.\nAlright, you asked me to dispatch a ninja to get rid of the Traveler. Well, the deed is done. Here's some proof: hair and clothing.\nOh, is that so? Show me.\nHmph, seems legit. How could I forget this gaudy hair color.\nImagine, a Traveler from another land just coming here and attacking my people. That rascal should have known better.\nHeh, too bad never had the chance to learn from mistakes. Haha!\nWell then, I've held up my end of the deal. Now you must hold up yours, where's my child?\nOh? You really don't get it, do you?\nWhat!?\nI only said that it was over for her unless you do as I say. I never said anything about returning the little brat to you.\nDaddy...",
+    "entries": [
+      {
+        "type": "action",
+        "text": "Approach the location"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "It seems the Kairagi has arrived. Oh, and that must be Mr. Ogawa's daughter."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Even after they hear the news that the ambush has been completed, there's no telling whether they'd make good on their promise to Mr. Ogawa."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "They really have no honor, do they?"
+      },
+      {
+        "type": "text",
+        "text": "I'm sure they'll still want more."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "I see..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Alright, I'll stay wide awake and fully alert."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Alright, you asked me to dispatch a ninja to get rid of the Traveler. Well, the deed is done. Here's some proof: hair and clothing."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Oh, is that so? Show me."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Hmph, seems legit. How could I forget this gaudy hair color."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Imagine, a Traveler from another land just coming here and attacking my people. That rascal should have known better."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Heh, too bad never had the chance to learn from mistakes. Haha!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Well then, I've held up my end of the deal. Now you must hold up yours, where's my child?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Oh? You really don't get it, do you?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "What!?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "I only said that it was over for her unless you do as I say. I never said anything about returning the little brat to you."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kotomi",
+        "text": "Daddy..."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__the_truth_behind_the_order__1",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "The Truth Behind the Order",
+    "chunk_index": 1,
+    "text": "I only said that it was over for her unless you do as I say. I never said anything about returning the little brat to you.\nDaddy...\nI think we've held up our terms, I even brought her here to prove it to you.\nThis way, I'm sure you'll be willing as ever to continue working with us.\nHuh? That's not what you said!\nYou dare speak in such a tone with me!?\nDon't let me lose my temper. Who's to say that I won't just do away with the both of you... I can do anything when I'm angry.\nOr... perhaps you feel bolder now because you've already ratted on me to the Shogunate? Hmm!?\nHuh? No, no, I wouldn't dare, I...\nBut my child... Tell me, what must I do to get my child back!\nLet me think about it... And while I'm thinking, you can use these invincible ninja of yours to take out a couple pesky members of the Tenryou Commission.\nHuh, how could I do that! How could anyone from the Shuumatsuban move against the Tenryou Commission!?\nThat's not my problem to figure out. It's yours!\nEnough talking. Now, get out of here.\nArgh!",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "I only said that it was over for her unless you do as I say. I never said anything about returning the little brat to you."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kotomi",
+        "text": "Daddy..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "I think we've held up our terms, I even brought her here to prove it to you."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "This way, I'm sure you'll be willing as ever to continue working with us."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Huh? That's not what you said!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "You dare speak in such a tone with me!?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Don't let me lose my temper. Who's to say that I won't just do away with the both of you... I can do anything when I'm angry."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Or... perhaps you feel bolder now because you've already ratted on me to the Shogunate? Hmm!?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Huh? No, no, I wouldn't dare, I..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "But my child... Tell me, what must I do to get my child back!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Let me think about it... And while I'm thinking, you can use these invincible ninja of yours to take out a couple pesky members of the Tenryou Commission."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Huh, how could I do that! How could anyone from the Shuumatsuban move against the Tenryou Commission!?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "That's not my problem to figure out. It's yours!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Enough talking. Now, get out of here."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Argh!"
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__the_truth_behind_the_order__2",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "The Truth Behind the Order",
+    "chunk_index": 2,
+    "text": "Enough talking. Now, get out of here.\nArgh!\nHey! You really think we'd just let you off the hook like that?\nHuh!? Who are you? Ninja?\nAnd you! Aren't you supposed to be...\nGetting rid of me isn't that easy.\nI'm the outlander, Traveler of countless worlds!\nUgh! Brothers, get them!\nUgh, Ogawa! This isn't over, you'll pay for this. You haven't seen the last of me!\nAfter the battle\nHehe, not another step closer, Traveler. I'm warning you.\nYou certainly live up to your reputation, there's no doubt about that... But remember, the little girl is still in my hands.\nBest not to do anything too hasty, we wouldn't want anything to happen to her, would we now?\nThe camera pans to \"Kotomi\" who turns out to be the Sayu trick\nHehe, don't test me now, I'll... Wait, huh...!?\nIt's not afraid of your blade.\nH—How did this happen? When did you...\nYou've heard how skilled the ninja of the Shuumatsuban are, haven't you? Heh, too easy!\nSo easy that... *yawn* I'm starting to feel a little bit sleepy.\nHuh? You little brat, you dare mock me? I'll pulverize you!\nStop right there!",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Enough talking. Now, get out of here."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Argh!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Hey! You really think we'd just let you off the hook like that?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Huh!? Who are you? Ninja?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "And you! Aren't you supposed to be..."
+      },
+      {
+        "type": "text",
+        "text": "Getting rid of me isn't that easy."
+      },
+      {
+        "type": "text",
+        "text": "I'm the outlander, Traveler of countless worlds!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Ugh! Brothers, get them!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Ugh, Ogawa! This isn't over, you'll pay for this. You haven't seen the last of me!"
+      },
+      {
+        "type": "action",
+        "text": "After the battle"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Hehe, not another step closer, Traveler. I'm warning you."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "You certainly live up to your reputation, there's no doubt about that... But remember, the little girl is still in my hands."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Best not to do anything too hasty, we wouldn't want anything to happen to her, would we now?"
+      },
+      {
+        "type": "action",
+        "text": "The camera pans to \"Kotomi\" who turns out to be the Sayu trick"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Hehe, don't test me now, I'll... Wait, huh...!?"
+      },
+      {
+        "type": "text",
+        "text": "It's not afraid of your blade."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "H—How did this happen? When did you..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "You've heard how skilled the ninja of the Shuumatsuban are, haven't you? Heh, too easy!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "So easy that... *yawn* I'm starting to feel a little bit sleepy."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Huh? You little brat, you dare mock me? I'll pulverize you!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Aoki",
+        "text": "Stop right there!"
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__the_truth_behind_the_order__3",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "The Truth Behind the Order",
+    "chunk_index": 3,
+    "text": "Huh? You little brat, you dare mock me? I'll pulverize you!\nStop right there!\nThis is the suspect behind the incident you reported?\nYes, that's right! Kotomi is already safe. Quick, you must apprehend him immediately!\nArgh!\nDaddy!\n*sobs* I knew that you would come to rescue me!\nDon't cry, my dear. Daddy's here. Everything's all right now.\nCome now, you should thank these two. Without them, we would have never been able to rescue you.\nThank you, Traveler! You and Ms. Ninja saved me!\nMs. Ninja...\nHehe, don't mention it. It's nothing for a ninja.\nI'm just glad you're okay.\nSuch agility, and the way you handled that blade... I must say that I am quite impressed.\nAs for Sayu, I had thought that you'd given up on your ninja training. But somehow you seem to be stronger than ever.\nIf you don't mind, I'll be taking my child home now. Her mother has been worried sick.\nThank you, all of you. I could never repay you.\nI'm glad we could help.\nPlease take care, the road is still dangerous.\nThank you Traveler and Ms. Ninja!\nOgawa and Kotomi leave",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Huh? You little brat, you dare mock me? I'll pulverize you!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Aoki",
+        "text": "Stop right there!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Aoki",
+        "text": "This is the suspect behind the incident you reported?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Yes, that's right! Kotomi is already safe. Quick, you must apprehend him immediately!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Inou",
+        "text": "Argh!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kotomi",
+        "text": "Daddy!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kotomi",
+        "text": "*sobs* I knew that you would come to rescue me!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Don't cry, my dear. Daddy's here. Everything's all right now."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Come now, you should thank these two. Without them, we would have never been able to rescue you."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kotomi",
+        "text": "Thank you, Traveler! You and Ms. Ninja saved me!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Ms. Ninja..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Hehe, don't mention it. It's nothing for a ninja."
+      },
+      {
+        "type": "text",
+        "text": "I'm just glad you're okay."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Such agility, and the way you handled that blade... I must say that I am quite impressed."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "As for Sayu, I had thought that you'd given up on your ninja training. But somehow you seem to be stronger than ever."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "If you don't mind, I'll be taking my child home now. Her mother has been worried sick."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Thank you, all of you. I could never repay you."
+      },
+      {
+        "type": "text",
+        "text": "I'm glad we could help."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "Please take care, the road is still dangerous."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kotomi",
+        "text": "Thank you Traveler and Ms. Ninja!"
+      },
+      {
+        "type": "action",
+        "text": "Ogawa and Kotomi leave"
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__the_truth_behind_the_order__4",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "The Truth Behind the Order",
+    "chunk_index": 4,
+    "text": "Thank you Traveler and Ms. Ninja!\nOgawa and Kotomi leave\nHey, please wait a second. There's something I've been meaning to tell you.\nThis isn't the first time the Kairagi have done something like this. With a little further investigation, I think we could track down the bigger fish.\nYou seem to have changed, Sayu. So hard working now...\nBut don't you feel sleepy?\nWell, to be honest, I couldn't care less at first. All that ambushing stuff was just getting in the way of my nap schedule...\nBut after witnessing the crying kid and that big, nasty bad guy, I couldn't just ignore the situation like usual.\nAt that moment, the situation felt a lot more personal... Like it was my own problem, too.\nIn the end, the little girl thanked us, and even called me Ms. Ninja... No one has ever called me that before.\nWho knows, Sayu... Maybe you're a really hard worker after all.\nHmm, don't count on it... This time just was an exception. Sleeping is still what I do best.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kotomi",
+        "text": "Thank you Traveler and Ms. Ninja!"
+      },
+      {
+        "type": "action",
+        "text": "Ogawa and Kotomi leave"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Hey, please wait a second. There's something I've been meaning to tell you."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "This isn't the first time the Kairagi have done something like this. With a little further investigation, I think we could track down the bigger fish."
+      },
+      {
+        "type": "text",
+        "text": "You seem to have changed, Sayu. So hard working now..."
+      },
+      {
+        "type": "text",
+        "text": "But don't you feel sleepy?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Well, to be honest, I couldn't care less at first. All that ambushing stuff was just getting in the way of my nap schedule..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "But after witnessing the crying kid and that big, nasty bad guy, I couldn't just ignore the situation like usual."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "At that moment, the situation felt a lot more personal... Like it was my own problem, too."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "In the end, the little girl thanked us, and even called me Ms. Ninja... No one has ever called me that before."
+      },
+      {
+        "type": "text",
+        "text": "Who knows, Sayu... Maybe you're a really hard worker after all."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Hmm, don't count on it... This time just was an exception. Sleeping is still what I do best."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__the_truth_behind_the_order__5",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "The Truth Behind the Order",
+    "chunk_index": 5,
+    "text": "Who knows, Sayu... Maybe you're a really hard worker after all.\nHmm, don't count on it... This time just was an exception. Sleeping is still what I do best.\nIn fact, once this is all over with, I'm going to find a nice, comfy spot where nobody can find me and take a long nap.\nYes... A really long... Comfy... *yawn*\nWhew, I'm getting sleepy...\nLet's all take a rest then, shall we?\nNo need, let's head back first. If I fall asleep now, I'm worried that I might forget some of the things that happened today...\nSo don't worry about me... I'll be just... fine... *dozing off*",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Who knows, Sayu... Maybe you're a really hard worker after all."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Hmm, don't count on it... This time just was an exception. Sleeping is still what I do best."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "In fact, once this is all over with, I'm going to find a nice, comfy spot where nobody can find me and take a long nap."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Yes... A really long... Comfy... *yawn*"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Whew, I'm getting sleepy..."
+      },
+      {
+        "type": "text",
+        "text": "Let's all take a rest then, shall we?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "No need, let's head back first. If I fall asleep now, I'm worried that I might forget some of the things that happened today..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "So don't worry about me... I'll be just... fine... *dozing off*"
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__branch_2__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Branch 2",
+    "chunk_index": 0,
+    "text": "Save it for the Yashiro Commission. I'm sure they'd love to hear your story.\nN—No, please, just hear me out! I'll explain everything!\nI've got him tied up, he's not going anywhere.\nThat takes care of that. Now all we need to do is drag you back and I can have a good night's sleep.\nProceed to Face-Off",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Save it for the Yashiro Commission. I'm sure they'd love to hear your story."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Ogawa",
+        "text": "N—No, please, just hear me out! I'll explain everything!"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "I've got him tied up, he's not going anywhere."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "That takes care of that. Now all we need to do is drag you back and I can have a good night's sleep."
+      },
+      {
+        "type": "action",
+        "text": "Proceed to Face-Off"
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__face-off__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Face-Off",
+    "chunk_index": 0,
+    "text": "Talk to Ayaka\nHm? Oh, hello Traveler. And I see Sayu and Mr. Ogawa are with you. Is something the matter?\nI understand the situation... It seems Mr. Ogawa was only acting out of coercion from the Kairagi, he had no intent to truly harm you.\nHowever, it concerns me that those forged orders went as far as they did, it's my responsibility to look into such matters. I will take the appropriate measures to resolve this.\nAs long as we can resolve the situation.\nAllow me to take the investigation matters from here. You needn't worry any longer.\n*yawn* If that's all, then we should get going.\nI can't help but feel a little uneasy here...\nIt's not often that I get to see you here, Sayu.\nUh... Heh.\nIt seems that Sayu is almost always sleepy and in need of a good nap. To see her here accompanying you and addressing these matters goes to show how much effort she is expending on your behalf.\nBut from now on, you should better attend to your duties. There's no need to keep Kano Nana worrying all the time.\nBut I don't want to work...",
+    "entries": [
+      {
+        "type": "action",
+        "text": "Talk to Ayaka"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Hm? Oh, hello Traveler. And I see Sayu and Mr. Ogawa are with you. Is something the matter?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "I understand the situation... It seems Mr. Ogawa was only acting out of coercion from the Kairagi, he had no intent to truly harm you."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "However, it concerns me that those forged orders went as far as they did, it's my responsibility to look into such matters. I will take the appropriate measures to resolve this."
+      },
+      {
+        "type": "text",
+        "text": "As long as we can resolve the situation."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Allow me to take the investigation matters from here. You needn't worry any longer."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "*yawn* If that's all, then we should get going."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "I can't help but feel a little uneasy here..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "It's not often that I get to see you here, Sayu."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Uh... Heh."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "It seems that Sayu is almost always sleepy and in need of a good nap. To see her here accompanying you and addressing these matters goes to show how much effort she is expending on your behalf."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "But from now on, you should better attend to your duties. There's no need to keep Kano Nana worrying all the time."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "But I don't want to work..."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__face-off__1",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Face-Off",
+    "chunk_index": 1,
+    "text": "But from now on, you should better attend to your duties. There's no need to keep Kano Nana worrying all the time.\nBut I don't want to work...\nAll I want is some sleep, but you keep the shrine maiden on my tail all the time.\nThere's loads of way more qualified ninja to handle every task. The Shuumatsuban would be the same with or without me.\nBut you performed admirably the first time you assisted the Traveler, did you not?\nEveryone believes that there are some missions that only you can accomplish.\nThis truth remains, whether you choose to believe it or not. Your sensei taught you ninjutsu so that you may step in when a mission needs you.\nYes, I understand, but...\nSorry, I don't know what to say.\nI should go... bye.\n*sigh* ...\nPerhaps you were a little too hard on her?\nShe's just a little... lost. It is only my wish to help her.\nBefore her sensei suddenly decided to leave, they insisted that I watch over her progress. Part of the reason I've assigned Kano Nana to keep an eye on her is to fulfill my promise.",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "But from now on, you should better attend to your duties. There's no need to keep Kano Nana worrying all the time."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "But I don't want to work..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "All I want is some sleep, but you keep the shrine maiden on my tail all the time."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "There's loads of way more qualified ninja to handle every task. The Shuumatsuban would be the same with or without me."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "But you performed admirably the first time you assisted the Traveler, did you not?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Everyone believes that there are some missions that only you can accomplish."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "This truth remains, whether you choose to believe it or not. Your sensei taught you ninjutsu so that you may step in when a mission needs you."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Yes, I understand, but..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Sorry, I don't know what to say."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "I should go... bye."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "*sigh* ..."
+      },
+      {
+        "type": "text",
+        "text": "Perhaps you were a little too hard on her?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "She's just a little... lost. It is only my wish to help her."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Before her sensei suddenly decided to leave, they insisted that I watch over her progress. Part of the reason I've assigned Kano Nana to keep an eye on her is to fulfill my promise."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__face-off__2",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Face-Off",
+    "chunk_index": 2,
+    "text": "She's just a little... lost. It is only my wish to help her.\nBefore her sensei suddenly decided to leave, they insisted that I watch over her progress. Part of the reason I've assigned Kano Nana to keep an eye on her is to fulfill my promise.\nIn fact, I'm certain that Sayu remembers her sensei's aspirations for her quite clearly. Otherwise, she would have quit the Shuumatsuban long ago.\nShe's been lost and unsure of herself ever since her beloved sensei's abrupt departure.\nI understand. I'll go see if I can talk to her.\nThank you, Traveler. She obviously has some reservations towards me. Though I've only desired to help and look after her, I'm afraid it's never culminated to much.\nThis is what we call \"growing pains.\"\nYes, perhaps you're right.\nTalk to Ayaka again\nPlease, go and talk to her. See if you can offer her any console.\nI understand the trouble she is facing. Fortunately, she is young and has many years ahead of her. There's no need to be hasty.\nTalk to Sayu\nSensei told me that all I need to do is grow big and tall. I remember that...",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "She's just a little... lost. It is only my wish to help her."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Before her sensei suddenly decided to leave, they insisted that I watch over her progress. Part of the reason I've assigned Kano Nana to keep an eye on her is to fulfill my promise."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "In fact, I'm certain that Sayu remembers her sensei's aspirations for her quite clearly. Otherwise, she would have quit the Shuumatsuban long ago."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "She's been lost and unsure of herself ever since her beloved sensei's abrupt departure."
+      },
+      {
+        "type": "text",
+        "text": "I understand. I'll go see if I can talk to her."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Thank you, Traveler. She obviously has some reservations towards me. Though I've only desired to help and look after her, I'm afraid it's never culminated to much."
+      },
+      {
+        "type": "text",
+        "text": "This is what we call \"growing pains.\""
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Yes, perhaps you're right."
+      },
+      {
+        "type": "action",
+        "text": "Talk to Ayaka again"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Please, go and talk to her. See if you can offer her any console."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "I understand the trouble she is facing. Fortunately, she is young and has many years ahead of her. There's no need to be hasty."
+      },
+      {
+        "type": "action",
+        "text": "Talk to Sayu"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Sensei told me that all I need to do is grow big and tall. I remember that..."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__face-off__3",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Face-Off",
+    "chunk_index": 3,
+    "text": "Talk to Sayu\nSensei told me that all I need to do is grow big and tall. I remember that...\nI had no idea how difficult such a simple thing could turn out to be.\nI'm not complaining, you know. I understand everyone has hopes for me... Miss Kamisato, Sensei, the shrine maiden...\nBut I haven't done anything right. And whenever I try to do my best, I can't help but feel more pressure bearing down on me.\nIf only I grew a little taller, maybe then I could handle it.\nDon't worry Sayu. Like Ayaka said, no one wants to pressure you.\n: Sayu: *sigh* I guess all I can do is say sorry...\nIf you don't try now, there's no guarantee that you can do well in the future.\n: Sayu: I get it. That's why I admire those who still try... even if they don't want to.\nMaybe you won't grow right away, but I can lift you higher whenever needed.\n: Sayu: But, what would I do if I keep you from growing? No, I would feel too guilty...",
+    "entries": [
+      {
+        "type": "action",
+        "text": "Talk to Sayu"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Sensei told me that all I need to do is grow big and tall. I remember that..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "I had no idea how difficult such a simple thing could turn out to be."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "I'm not complaining, you know. I understand everyone has hopes for me... Miss Kamisato, Sensei, the shrine maiden..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "But I haven't done anything right. And whenever I try to do my best, I can't help but feel more pressure bearing down on me."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "If only I grew a little taller, maybe then I could handle it."
+      },
+      {
+        "type": "text",
+        "text": "Don't worry Sayu. Like Ayaka said, no one wants to pressure you."
+      },
+      {
+        "type": "text",
+        "text": ": Sayu: *sigh* I guess all I can do is say sorry..."
+      },
+      {
+        "type": "text",
+        "text": "If you don't try now, there's no guarantee that you can do well in the future."
+      },
+      {
+        "type": "text",
+        "text": ": Sayu: I get it. That's why I admire those who still try... even if they don't want to."
+      },
+      {
+        "type": "text",
+        "text": "Maybe you won't grow right away, but I can lift you higher whenever needed."
+      },
+      {
+        "type": "text",
+        "text": ": Sayu: But, what would I do if I keep you from growing? No, I would feel too guilty..."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__face-off__4",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Face-Off",
+    "chunk_index": 4,
+    "text": "Maybe you won't grow right away, but I can lift you higher whenever needed.\n: Sayu: But, what would I do if I keep you from growing? No, I would feel too guilty...\nAnyway, thank you. I don't know what else to say. Even talking is starting to feel difficult now.\nThis is why I don't like coming here...",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Maybe you won't grow right away, but I can lift you higher whenever needed."
+      },
+      {
+        "type": "text",
+        "text": ": Sayu: But, what would I do if I keep you from growing? No, I would feel too guilty..."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "Anyway, thank you. I don't know what else to say. Even talking is starting to feel difficult now."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Sayu",
+        "text": "This is why I don't like coming here..."
+      }
+    ]
+  },
+  {
+    "chunk_id": "wiki_shuumatsuban_suspicions__change_history__0",
+    "doc_id": "wiki_shuumatsuban_suspicions",
+    "source": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Suspicions",
+    "character": "Kamisato Ayaka",
+    "section": "Change History",
+    "chunk_index": 0,
+    "text": "La sospecha de Los Ocelos\n「終末番」疑惑",
+    "entries": [
+      {
+        "type": "dialogue",
+        "speaker": "es",
+        "text": "La sospecha de Los Ocelos"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "ja",
+        "text": "「終末番」疑惑"
+      }
+    ]
   }
 ]
