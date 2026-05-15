@@ -129,6 +129,20 @@ class RetrievedChunk:
     rerank_score: float = 0.0
 
 
+@dataclass(slots=True)
+class RetrievedContext:
+    """Structured retrieval payload for prompt building and post-validation."""
+
+    question: str
+    expanded_queries: tuple[str, ...]
+    manual_matches: tuple[ManualFactMatch, ...]
+    vector_chunks: tuple[RetrievedChunk, ...]
+
+    @property
+    def prompt_context(self) -> str:
+        return assemble_context(list(self.manual_matches), list(self.vector_chunks))
+
+
 def embed(text: str) -> list[float]:
     """Convert text into an embedding vector for Chroma search."""
     vector = EMBED_MODEL.encode(text)
@@ -371,6 +385,19 @@ def retrieve(
     character_name: str | None = DEFAULT_CHARACTER_NAME,
 ) -> str:
     """Retrieve prompt context using manual facts first, then vector search."""
+    return retrieve_context(
+        question,
+        top_k=top_k,
+        character_name=character_name,
+    ).prompt_context
+
+
+def retrieve_context(
+    question: str,
+    top_k: int = 5,
+    character_name: str | None = DEFAULT_CHARACTER_NAME,
+) -> RetrievedContext:
+    """Return both rendered context and raw evidence for downstream validation."""
     expanded_queries = expand_query(question)
     query_terms = get_query_terms(expanded_queries)
 
@@ -389,7 +416,12 @@ def retrieve(
         character_name=character_name,
     )
 
-    return assemble_context(manual_matches, reranked_chunks)
+    return RetrievedContext(
+        question=question,
+        expanded_queries=tuple(expanded_queries),
+        manual_matches=tuple(manual_matches),
+        vector_chunks=tuple(reranked_chunks),
+    )
 
 
 if __name__ == "__main__":

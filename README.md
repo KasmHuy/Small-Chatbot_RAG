@@ -1,7 +1,11 @@
 # RAG-Chatbot_LLM_classic
-
+# RESEARCH PROTOTYPE WITH RAG SYSTEM
 Project chatbot roleplay theo kieu Character LLM + RAG. Sau khi don lai cau truc, repo chi dung mot nguon cau hinh va mot nguon du lieu chung o root de tranh trung `env`, `data` va cac file utility.
-
+## NHược điểm hiện tại của project
+- Số lượng chunk còn khá it (336 chunks)
+- Mô hình không role play trọn vẹn, đôi khi thoát vai trở về dạng assistant
+- Hallucination còn khá cao
+- Qua nhiều lần chỉnh sửa cấu trúc hệ thống
 ## Cau truc hien tai
 
 ```text
