@@ -12,6 +12,11 @@ import json
 import re
 from pathlib import Path
 
+REPO_ROOT = Path(__file__).resolve().parents[2]
+DATA_ROOT = REPO_ROOT / "data"
+DEFAULT_RAW_DOCUMENT_PATH = DATA_ROOT / "raw" / "document.json"
+DEFAULT_CLEAN_DOCUMENT_PATH = DATA_ROOT / "processed" / "document_clean.json"
+
 
 # ---------------------------------------------------------------------------
 # Sections to drop entirely (case-insensitive exact match or startswith)
@@ -265,8 +270,8 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description="Clean a document.json file.")
-    parser.add_argument("input",  nargs="?", default="../data/raw/document.json")
-    parser.add_argument("output", nargs="?", default="../data/processed/document_clean.json")
+    parser.add_argument("input", nargs="?", default=str(DEFAULT_RAW_DOCUMENT_PATH))
+    parser.add_argument("output", nargs="?", default=str(DEFAULT_CLEAN_DOCUMENT_PATH))
     args = parser.parse_args()
 
     documents = load_documents(args.input)

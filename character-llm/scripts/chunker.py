@@ -22,6 +22,11 @@ import argparse
 from pathlib import Path
 from typing import List
 
+REPO_ROOT = Path(__file__).resolve().parents[2]
+DATA_ROOT = REPO_ROOT / "data"
+DEFAULT_RAW_DOCUMENT_PATH = DATA_ROOT / "raw" / "document.json"
+DEFAULT_CHUNKS_PATH = DATA_ROOT / "processed" / "chunks.json"
+
 
 # ---------------------------------------------------------------------------
 # Core chunking helpers
@@ -184,14 +189,14 @@ if __name__ == "__main__":
     parser.add_argument(
         "input",
         nargs="?",
-        default="../data/raw/document.json",
-        help="Path to document.json  (default: ../data/raw/document.json)",
+        default=str(DEFAULT_RAW_DOCUMENT_PATH),
+        help=f"Path to document.json (default: {DEFAULT_RAW_DOCUMENT_PATH})",
     )
     parser.add_argument(
         "output",
         nargs="?",
-        default="../data/processed/chunks.json",
-        help="Path for output chunks.json  (default: ../data/processed/chunks.json)",
+        default=str(DEFAULT_CHUNKS_PATH),
+        help=f"Path for output chunks.json (default: {DEFAULT_CHUNKS_PATH})",
     )
     parser.add_argument(
         "--chunk-size",

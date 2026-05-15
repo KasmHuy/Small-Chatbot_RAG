@@ -5,6 +5,10 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 import requests
 
+REPO_ROOT = Path(__file__).resolve().parents[2]
+DATA_ROOT = REPO_ROOT / "data"
+DEFAULT_RAW_DOCUMENT_PATH = DATA_ROOT / "raw" / "document.json"
+
 
 def slugify(text: str) -> str:
     return re.sub(r"[^a-z0-9_]", "_", text.lower().strip()).strip("_")
@@ -300,7 +304,7 @@ def save_document(doc: dict, output_path: str) -> None:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("url")
-    parser.add_argument("--output", default="../data/raw/document.json")
+    parser.add_argument("--output", default=str(DEFAULT_RAW_DOCUMENT_PATH))
     parser.add_argument("--character-name", default="Character")
     args = parser.parse_args()
     doc = scrape_character_wiki(args.url, args.character_name)

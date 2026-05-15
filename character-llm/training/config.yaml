@@ -1,9 +1,0 @@
-model_name: ${BASE_MODEL}
-learning_rate: 2e-5
-batch_size: 4
-epochs: 3
-max_seq_length: 1024
-warmup_steps: 100
-evaluation_steps: 500
-save_steps: 1000
-output_dir: ../models/character-model

@@ -30,9 +30,10 @@ except ImportError:  # pragma: no cover - fallback for package-style imports
 
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
-CHUNKS_PATH = REPO_ROOT / "character-llm" / "data" / "processed" / "chunks.json"
-VECTORDB_PATH = REPO_ROOT / "character-llm" / "data" / "vectordb"
-MANUAL_FACTS_PATH = REPO_ROOT / "data" / "manual_facts"
+DATA_ROOT = REPO_ROOT / "data"
+CHUNKS_PATH = DATA_ROOT / "processed" / "chunks.json"
+VECTORDB_PATH = DATA_ROOT / "vectordb"
+MANUAL_FACTS_PATH = DATA_ROOT / "manual_facts"
 
 COLLECTION_NAME = "ayaka_chunks"
 DEFAULT_CHARACTER_NAME = "Kamisato Ayaka"
