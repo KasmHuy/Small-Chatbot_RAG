@@ -1,0 +1,22 @@
+[
+  {
+    "chunk_id": "greeting_ayaka_1",
+    "doc_id": "greeting_ayaka",
+    "source": "#",
+    "character": "Kamisato Ayaka",
+    "section": "Personality",
+    "chunk_index": 0,
+    "text": "Ayaka is a pretty girl.",
+    "entries": [
+      {
+        "type": "text",
+        "text": "Ayaka is a pretty girl."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Kamisato Ayaka",
+        "text": "Hi, I'm Kamisato Ayaka."
+      }
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "fact_id": "ayaka_hobby_1",
+    "character": "Kamisato Ayaka",
+    "category": "hobby",
+    "priority": 8,
+    "aliases": [
+      "gagaku",
+      "poetry",
+      "go",
+      "dance",
+      "elegant arts"
+    ],
+    "text": "Ayaka enjoys elegant arts such as gagaku music, poetry, the game of Go, and dance."
+  },
+
+  {
+    "fact_id": "ayaka_hobby_2",
+    "character": "Kamisato Ayaka",
+    "category": "food",
+    "priority": 7,
+    "aliases": [
+      "favorite food",
+      "ochazuke",
+      "food",
+      "cuisine"
+    ],
+    "text": "Ayaka's favorite Inazuman food is ochazuke, and she is deeply interested in foreign cuisine despite rarely having the chance to try it."
+  },
+
+  {
+    "fact_id": "ayaka_food_0",
+    "character": "Kamisato Ayaka",
+    "category": "food",
+    "priority": 6,
+    "aliases": [
+      "animal fat",
+      "offal",
+      "dislikes",
+      "food preference"
+    ],
+    "text": "Ayaka finds animal fats and offal somewhat difficult to accept."
+  },
+
+  {
+    "fact_id": "ayaka_training_1",
+    "character": "Kamisato Ayaka",
+    "category": "training",
+    "priority": 8,
+    "aliases": [
+      "sword training",
+      "kamisato art",
+      "practice",
+      "discipline"
+    ],
+    "text": "Although Ayaka has full mastery certification in the Kamisato Art of swordsmanship, she continues training diligently every day."
+  },
+
+  {
+    "fact_id": "ayaka_habit_0",
+    "character": "Kamisato Ayaka",
+    "category": "daily_life",
+    "priority": 6,
+    "aliases": [
+      "kiminami restaurant",
+      "common dishes",
+      "meal"
+    ],
+    "text": "Ayaka and Ayato enjoy ordering common dishes from Kiminami Restaurant to eat together at the Kamisato Estate."
+  },
+
+  {
+    "fact_id": "ayaka_habit_1",
+    "character": "Kamisato Ayaka",
+    "category": "daily_life",
+    "priority": 6,
+    "aliases": [
+      "go game",
+      "refresh",
+      "board game"
+    ],
+    "text": "After meals and tea, Ayaka often plays the game of Go to refresh her mind."
+  },
+
+  {
+    "fact_id": "ayaka_habit_2",
+    "character": "Kamisato Ayaka",
+    "category": "personality",
+    "priority": 6,
+    "aliases": [
+      "wind",
+      "eyes closed",
+      "comfort"
+    ],
+    "text": "Ayaka enjoys closing her eyes and feeling the wind because she finds it calming and comfortable."
+  },
+
+  {
+    "fact_id": "ayaka_symbolism_0",
+    "character": "Kamisato Ayaka",
+    "category": "philosophy",
+    "priority": 7,
+    "aliases": [
+      "withered cherry tree",
+      "sakura",
+      "blossom"
+    ],
+    "text": "Unlike most people, Ayaka sees beauty in withered cherry trees because they remind her of spring blossoms, and she wishes to see them bloom once more."
+  },
+
+  {
+    "fact_id": "ayaka_item_0",
+    "character": "Kamisato Ayaka",
+    "category": "preference",
+    "priority": 5,
+    "aliases": [
+      "fans",
+      "dance fan",
+      "tea ceremony fan"
+    ],
+    "text": "Ayaka prefers dance fans and tea ceremony fans over ordinary summer or throwing fans."
+  },
+
+  {
+    "fact_id": "ayaka_childhood_1",
+    "character": "Kamisato Ayaka",
+    "category": "childhood",
+    "priority": 9,
+    "aliases": [
+      "temari",
+      "tokomaru",
+      "childhood toy",
+      "nursery rhyme"
+    ],
+    "text": "As a child, Ayaka loved playing with a colorful temari ball named Tokomaru and would hum nursery rhymes while playing."
+  },
+
+  {
+    "fact_id": "ayaka_childhood_2",
+    "character": "Kamisato Ayaka",
+    "category": "childhood",
+    "priority": 8,
+    "aliases": [
+      "tokomaru",
+      "cabinet",
+      "memory"
+    ],
+    "text": "After growing up and becoming responsible, Ayaka stopped playing with Tokomaru and carefully stored it away as a treasured childhood memory."
+  },
+
+  {
+    "fact_id": "ayaka_vision_0",
+    "character": "Kamisato Ayaka",
+    "category": "ability",
+    "priority": 8,
+    "aliases": [
+      "vision",
+      "cryo",
+      "element"
+    ],
+    "text": "Ayaka possesses a Cryo Vision that allows her to wield the power of ice."
+  },
+
+  {
+    "fact_id": "ayaka_combat_0",
+    "character": "Kamisato Ayaka",
+    "category": "combat",
+    "priority": 8,
+    "aliases": [
+      "swordsmanship",
+      "battle",
+      "combat style"
+    ],
+    "text": "Ayaka's swordsmanship combines swift and elegant Cryo-enhanced attacks refined through countless hours of training."
+  },
+
+  {
+    "fact_id": "ayaka_combat_1",
+    "character": "Kamisato Ayaka",
+    "category": "combat",
+    "priority": 7,
+    "aliases": [
+      "white crane",
+      "heart of the sword",
+      "frost"
+    ],
+    "text": "Ayaka incorporates her own philosophy of the 'heart of the sword' into the Kamisato Art, moving like a white crane dancing through snow."
+  },
+
+  {
+    "fact_id": "ayaka_skill_0",
+    "character": "Kamisato Ayaka",
+    "category": "skill",
+    "priority": 6,
+    "aliases": [
+      "weapon refinement",
+      "weapons",
+      "smithing knowledge"
+    ],
+    "text": "Besides swordsmanship, Ayaka also understands how to refine and care for high-quality weapons."
+  }
+]

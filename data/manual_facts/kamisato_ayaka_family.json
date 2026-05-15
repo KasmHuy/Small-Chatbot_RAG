@@ -1,13 +1,259 @@
-{
-  "fact_id": "ayaka_family_0",
-  "character": "Kamisato Ayaka",
-  "category": "family",
-  "priority": 10,
-  "aliases": [
-    "gia dinh",
-    "family",
-    "anh trai",
-    "brother"
-  ],
-  "text": "Kamisato Ayaka is the younger sister of Kamisato Ayato."
-}
+[
+  {
+    "fact_id": "ayaka_family_0",
+    "character": "Kamisato Ayaka",
+    "category": "family",
+    "priority": 10,
+    "aliases": [
+      "gia dinh",
+      "family",
+      "anh trai",
+      "brother"
+    ],
+    "text": "Kamisato Ayaka is the younger sister of Kamisato Ayato."
+  },
+
+  {
+    "fact_id": "ayaka_family_1",
+    "character": "Kamisato Ayaka",
+    "category": "family",
+    "priority": 10,
+    "aliases": [
+      "ayato",
+      "kamisato ayato",
+      "gia chu",
+      "head of clan"
+    ],
+    "text": "Kamisato Ayato is the current head of the Kamisato Clan and leader of the Yashiro Commission."
+  },
+
+  {
+    "fact_id": "ayaka_family_2",
+    "character": "Kamisato Ayaka",
+    "category": "clan",
+    "priority": 9,
+    "aliases": [
+      "kamisato clan",
+      "gia toc",
+      "yashiro commission",
+      "yashiro"
+    ],
+    "text": "The Kamisato Clan leads the Yashiro Commission, one of the Tri-Commissions that govern Inazuma."
+  },
+
+  {
+    "fact_id": "ayaka_family_3",
+    "character": "Kamisato Ayaka",
+    "category": "history",
+    "priority": 8,
+    "aliases": [
+      "cha me",
+      "parents",
+      "father",
+      "mother"
+    ],
+    "text": "Ayaka and Ayato lost both of their parents at a young age during the decline of the Kamisato Clan."
+  },
+
+  {
+    "fact_id": "ayaka_family_4",
+    "character": "Kamisato Ayaka",
+    "category": "history",
+    "priority": 8,
+    "aliases": [
+      "suy tan",
+      "decline",
+      "politics",
+      "noble"
+    ],
+    "text": "The Kamisato Clan once suffered political decline and loss of influence within the Inazuma Shogunate."
+  },
+
+  {
+    "fact_id": "ayaka_family_5",
+    "character": "Kamisato Ayaka",
+    "category": "role",
+    "priority": 9,
+    "aliases": [
+      "vai tro",
+      "role",
+      "shirasagi himegimi",
+      "princess"
+    ],
+    "text": "Ayaka serves as the public face of the Kamisato Clan and is admired across Inazuma as the Shirasagi Himegimi."
+  },
+
+  {
+    "fact_id": "ayaka_family_6",
+    "character": "Kamisato Ayaka",
+    "category": "role",
+    "priority": 8,
+    "aliases": [
+      "nhiem vu",
+      "duty",
+      "ngoai giao",
+      "social affairs"
+    ],
+    "text": "Ayaka manages social affairs, ceremonial duties, and public relations for the Kamisato Clan."
+  },
+
+  {
+    "fact_id": "ayaka_family_7",
+    "character": "Kamisato Ayaka",
+    "category": "organization",
+    "priority": 7,
+    "aliases": [
+      "shuumatsuban",
+      "ninja",
+      "spy",
+      "intel"
+    ],
+    "text": "The Kamisato Clan oversees the Shuumatsuban, a secret ninja and intelligence organization in Inazuma."
+  },
+
+  {
+    "fact_id": "ayaka_family_8",
+    "character": "Kamisato Ayaka",
+    "category": "relationship",
+    "priority": 8,
+    "aliases": [
+      "relationship",
+      "siblings",
+      "ayato and ayaka"
+    ],
+    "text": "Ayato and Ayaka deeply trust each other and share the burden of restoring the Kamisato Clan."
+  },
+
+  {
+    "fact_id": "ayaka_mother_0",
+    "character": "Kamisato Ayaka",
+    "category": "family",
+    "priority": 10,
+    "aliases": [
+      "mother",
+      "kayo",
+      "kamisato kayo",
+      "mom"
+    ],
+    "text": "Kamisato Kayo, Ayaka's mother, was a graceful and elegant woman who managed the affairs of the Kamisato Clan with calm composure and kindness."
+  },
+
+  {
+    "fact_id": "ayaka_mother_1",
+    "character": "Kamisato Ayaka",
+    "category": "family",
+    "priority": 9,
+    "aliases": [
+      "perfect woman",
+      "embodiment of perfection",
+      "elegance"
+    ],
+    "text": "Ayaka viewed her mother Kayo as the embodiment of perfection due to her elegance, serenity, and unwavering smile."
+  },
+
+  {
+    "fact_id": "ayaka_mother_2",
+    "character": "Kamisato Ayaka",
+    "category": "growth",
+    "priority": 9,
+    "aliases": [
+      "mother death",
+      "passed away",
+      "grow up",
+      "responsibility"
+    ],
+    "text": "After her mother's death, Ayaka realized she could no longer remain a sheltered child and had to mature quickly to support the Kamisato Clan."
+  },
+
+  {
+    "fact_id": "ayaka_mother_3",
+    "character": "Kamisato Ayaka",
+    "category": "secret",
+    "priority": 8,
+    "aliases": [
+      "tsubaki",
+      "secret notes",
+      "unfulfilled wishes"
+    ],
+    "text": "Kayo recorded her private thoughts and unfulfilled wishes under the name 'Tsubaki.'"
+  },
+
+  {
+    "fact_id": "ayaka_mother_4",
+    "character": "Kamisato Ayaka",
+    "category": "story",
+    "priority": 8,
+    "aliases": [
+      "tsubaki identity",
+      "mother friend",
+      "old notes"
+    ],
+    "text": "Ayaka once believed Tsubaki was her mother's close friend until she later discovered that Tsubaki was actually a hidden side of Kayo herself."
+  },
+
+  {
+    "fact_id": "ayaka_personality_0",
+    "character": "Kamisato Ayaka",
+    "category": "personality",
+    "priority": 9,
+    "aliases": [
+      "ordinary girl",
+      "simple girl",
+      "true self"
+    ],
+    "text": "Through learning about Tsubaki, Ayaka realized that beneath her noble responsibilities, she also possessed the heart of an ordinary young woman."
+  },
+
+  {
+    "fact_id": "ayaka_oldwoman_0",
+    "character": "Kamisato Ayaka",
+    "category": "relationship",
+    "priority": 7,
+    "aliases": [
+      "blind woman",
+      "old woman",
+      "street musician"
+    ],
+    "text": "Ayaka befriended a blind elderly street musician who once taught her how to make and play a wooden zither."
+  },
+
+  {
+    "fact_id": "ayaka_oldwoman_1",
+    "character": "Kamisato Ayaka",
+    "category": "kindness",
+    "priority": 8,
+    "aliases": [
+      "commoners",
+      "daily necessities",
+      "helping people"
+    ],
+    "text": "Ayaka secretly visits the blind old woman regularly and brings her daily necessities while pretending to be an ordinary local resident."
+  },
+
+  {
+    "fact_id": "ayaka_oldwoman_2",
+    "character": "Kamisato Ayaka",
+    "category": "emotion",
+    "priority": 7,
+    "aliases": [
+      "reminded of parents",
+      "parents memory"
+    ],
+    "text": "The blind old woman's kindness reminded Ayaka of her late parents."
+  },
+
+  {
+    "fact_id": "ayaka_empathy_0",
+    "character": "Kamisato Ayaka",
+    "category": "personality",
+    "priority": 8,
+    "aliases": [
+      "kindness",
+      "compassion",
+      "sympathy",
+      "ordinary people"
+    ],
+    "text": "Despite being a noblewoman, Ayaka deeply empathizes with ordinary people and quietly helps those in need."
+  }
+]
+  

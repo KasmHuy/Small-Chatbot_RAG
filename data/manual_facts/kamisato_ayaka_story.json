@@ -1,0 +1,223 @@
+[
+  {
+    "fact_id": "ayaka_clan_0",
+    "character": "Kamisato Ayaka",
+    "category": "clan",
+    "priority": 10,
+    "aliases": [
+      "kamisato clan",
+      "yashiro commission",
+      "three commissions"
+    ],
+    "text": "The Kamisato Clan holds one of the highest statuses among Inazuma's noble families and leads the Yashiro Commission, overseeing ceremonies, rituals, culture, and arts."
+  },
+
+  {
+    "fact_id": "ayaka_clan_1",
+    "character": "Kamisato Ayaka",
+    "category": "history",
+    "priority": 10,
+    "aliases": [
+      "fatui",
+      "decline",
+      "betrayal",
+      "swordsmith"
+    ],
+    "text": "The Kamisato Clan suffered severe decline after Fatui plots and the betrayal of a master swordsmith caused the clan to lose retainers and political standing."
+  },
+
+  {
+    "fact_id": "ayaka_growth_0",
+    "character": "Kamisato Ayaka",
+    "category": "growth",
+    "priority": 9,
+    "aliases": [
+      "playful child",
+      "grow up",
+      "responsibility"
+    ],
+    "text": "Ayaka was once a carefree and playful child but matured rapidly after witnessing her mother's illness and her brother's burdens."
+  },
+
+  {
+    "fact_id": "ayaka_growth_1",
+    "character": "Kamisato Ayaka",
+    "category": "training",
+    "priority": 9,
+    "aliases": [
+      "practice",
+      "hard work",
+      "fifty times"
+    ],
+    "text": "Ayaka overcame her lack of natural talent through relentless repetition, practicing poems, calligraphy, and sword techniques dozens of times until perfected."
+  },
+
+  {
+    "fact_id": "ayaka_vision_1",
+    "character": "Kamisato Ayaka",
+    "category": "vision",
+    "priority": 9,
+    "aliases": [
+      "vision awakening",
+      "dojo",
+      "ice flowers"
+    ],
+    "text": "Ayaka received her Cryo Vision after finally mastering a decisive sword strike, causing ice flowers to bloom throughout the dojo."
+  },
+
+  {
+    "fact_id": "ayaka_title_0",
+    "character": "Kamisato Ayaka",
+    "category": "title",
+    "priority": 8,
+    "aliases": [
+      "shirasagi himegimi",
+      "white heron princess",
+      "title"
+    ],
+    "text": "Ayaka is beloved throughout Inazuma and honored with the title 'Shirasagi Himegimi' due to her elegance, dignity, and kindness."
+  },
+
+  {
+    "fact_id": "ayaka_politics_0",
+    "character": "Kamisato Ayaka",
+    "category": "politics",
+    "priority": 9,
+    "aliases": [
+      "noble houses",
+      "power struggle",
+      "public image"
+    ],
+    "text": "Ayaka constantly navigates noble power struggles and helps maintain the Kamisato Clan's public image through diplomacy and social grace."
+  },
+
+  {
+    "fact_id": "ayaka_role_0",
+    "character": "Kamisato Ayaka",
+    "category": "role",
+    "priority": 8,
+    "aliases": [
+      "internal affairs",
+      "social events",
+      "public duties"
+    ],
+    "text": "Ayaka manages many internal affairs of the Kamisato Clan and often represents the family at public events in place of Ayato."
+  },
+
+  {
+    "fact_id": "ayaka_decree_0",
+    "character": "Kamisato Ayaka",
+    "category": "vision_hunt_decree",
+    "priority": 10,
+    "aliases": [
+      "vision hunt decree",
+      "oppose decree",
+      "raiden shogun"
+    ],
+    "text": "Ayaka opposed the Vision Hunt Decree because she believed the Yashiro Commission had a duty to protect the people's wishes."
+  },
+
+  {
+    "fact_id": "ayaka_traveler_0",
+    "character": "Kamisato Ayaka",
+    "category": "traveler",
+    "priority": 9,
+    "aliases": [
+      "aether",
+      "traveler",
+      "change the situation"
+    ],
+    "text": "Ayaka believed the Traveler might possess the power to change Inazuma's fate and secretly hoped he could help oppose the Vision Hunt Decree."
+  },
+
+  {
+    "fact_id": "ayaka_traveler_1",
+    "character": "Kamisato Ayaka",
+    "category": "relationship",
+    "priority": 8,
+    "aliases": [
+      "equal friend",
+      "true friend",
+      "formalities"
+    ],
+    "text": "Ayaka longs for a genuine friend who sees her as an ordinary person rather than the Shirasagi Himegimi or a noblewoman."
+  },
+
+  {
+    "fact_id": "ayaka_tsubaki_0",
+    "character": "Kamisato Ayaka",
+    "category": "story",
+    "priority": 8,
+    "aliases": [
+      "tsubaki",
+      "mother notebook",
+      "ordinary girl"
+    ],
+    "text": "Through her mother's secret identity 'Tsubaki,' Ayaka realized that even noblewomen can yearn for the ordinary joys of life."
+  },
+
+  {
+    "fact_id": "ayaka_dance_0",
+    "character": "Kamisato Ayaka",
+    "category": "emotion",
+    "priority": 8,
+    "aliases": [
+      "moonlight dance",
+      "festival",
+      "dance"
+    ],
+    "text": "Ayaka fulfilled one of her long-held wishes by dancing beneath the moonlight with the Traveler after attending a festival together."
+  },
+
+  {
+    "fact_id": "ayaka_shuumatsuban_0",
+    "character": "Kamisato Ayaka",
+    "category": "organization",
+    "priority": 7,
+    "aliases": [
+      "shuumatsuban",
+      "sayu",
+      "secret force"
+    ],
+    "text": "The Yashiro Commission commands the Shuumatsuban, a covert ninja organization that assisted Ayaka during the resistance against the Vision Hunt Decree."
+  },
+
+  {
+    "fact_id": "ayaka_irodori_0",
+    "character": "Kamisato Ayaka",
+    "category": "irodori festival",
+    "priority": 7,
+    "aliases": [
+      "irodori festival",
+      "five kasen",
+      "kaedehara clan"
+    ],
+    "text": "During the Irodori Festival, Ayaka helped uncover truths connected to the fall of the Kaedehara Clan and the corruption surrounding Inazuma's swordsmith traditions."
+  },
+
+  {
+    "fact_id": "ayaka_fontaine_0",
+    "character": "Kamisato Ayaka",
+    "category": "fontaine",
+    "priority": 6,
+    "aliases": [
+      "fontaine",
+      "film festival",
+      "two musketeers"
+    ],
+    "text": "Ayaka traveled to Fontaine to promote cultural exchange and starred in the film 'The Two Musketeers' alongside her allies."
+  },
+
+  {
+    "fact_id": "ayaka_fontaine_1",
+    "character": "Kamisato Ayaka",
+    "category": "friendship",
+    "priority": 6,
+    "aliases": [
+      "furina",
+      "acting",
+      "movie"
+    ],
+    "text": "Furina admired Ayaka's acting talent and invited her to become a professional actress, though Ayaka politely declined due to her duties in Inazuma."
+  }
+]
