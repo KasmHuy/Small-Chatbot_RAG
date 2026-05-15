@@ -1,17 +1,27 @@
-# character-llm
+# Character LLM
 
-Thu muc nay hien chi giu source code chinh cua project:
+Fine-tuned LLM để roleplay nhân vật X từ [game/anime/novel].
 
-- `inference/` cho RAG, chat CLI va API stub
-- `scripts/` cho pipeline scrape / clean / chunk
-- `training/` cho phan train placeholder
+## Quickstart
 
-Tai nguyen dung chung da duoc chuyen ra root de tranh trung lap:
+```bash
+git clone https://github.com/you/character-llm
+cd character-llm
+pip install -r requirements.txt
+```
 
-- `../data/`
-- `../docs/`
-- `../notebooks/`
-- `../tools/`
-- `../requirements.txt`
+## Pipeline
 
-Xem `../README.md` de chay project theo cau truc moi.
+Thiết lập các file sau cho project, bỏ trống các file py
+
+## Project layout
+
+- `data/`
+  - `raw/` — Data thô scrape từ wiki
+  - `processed/` — Đã chunk + clean
+  - `training/` — Training pairs cuối cùng
+- `scripts/` — Chuẩn bị dữ liệu và kiểm tra format
+- `training/` — Fine-tune và đánh giá
+- `inference/` — Chat và API wrapper
+- `models/` — Gitignored model weights
+- `notebooks/` — Thử nghiệm, khám phá dữ liệu
